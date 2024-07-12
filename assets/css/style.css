@@ -225,8 +225,8 @@ h6 {
   gap: 10px;
   border-radius: 22px;
   opacity: 0px;
-  color: #A256B0;
-  background: #FFFFFF;
+  color: #ffffff;
+  background: #008ac1;
   font-weight: 800;
   margin-left: 10px;
 
@@ -234,8 +234,9 @@ h6 {
 }
 
 .appointment-btn:hover {
-  background: #0598d2;
+  background: #f3a871;
   color: #fff;
+  text-decoration: none;
 }
 
 @media (max-width: 768px) {
@@ -1197,8 +1198,8 @@ section {
 }
 
 .departments .nav-link.active {
-  background: rgba(239, 239, 239, 0.695);
-  border-color: #0598d2;
+  background: rgba(55, 49, 49, 0.695);
+  border-color: #f3a871;
 }
 
 .departments .nav-link.active h4 {
@@ -1788,7 +1789,7 @@ section {
 }
 
 #footer .footer-top {
-  background: #F3F9FF !important;
+  background-image: linear-gradient(to left top, #82dbff, #92dfff, #a1e3fe, #afe7fe, #bcebfe, #c8edff, #d3f0ff, #def2ff, #e9f4ff, #f3f7ff, #fafbff, #ffffff);
 
 }
 
@@ -1973,11 +1974,7 @@ section {
 }
 
 
-
-.cor_med {
-  padding-top: 100px;
-
-}
+ 
 
 
 
@@ -2008,7 +2005,7 @@ section {
 
   font-weight: 800;
   font-size: 35px;
-  color: #A256B0;
+  color: #f3a871;
   ;
 }
 
@@ -2087,7 +2084,7 @@ section {
   font-family: "Inter", sans-serif;
   font-weight: 600;
   font-size: 16px;
-  color: #9A9A9A;
+  color: #5e5c5c;
 
 }
 
@@ -2099,21 +2096,29 @@ section {
   line-height: 22.02px;
   letter-spacing: 0.03em;
   text-align: left;
-  color: #A256B0;
+  color: #008ac1;
 
 }
 
 
-
-.main_images {
-  margin-bottom: -150px
+.card_min {
+  /* Customize the card appearance */
+  padding: 20px;
+  background-color: #f8f9fa; /* Light background color for cards */
+  border: 1px solid #dee2e6; /* Border for cards */
+  border-radius: 5px; /* Rounded corners */
+  text-align: center; /* Centered text */
 }
 
 
 
+ 
+
+
+
 
 .main_images {
-  background: #E5E5FB;
+  background-image: linear-gradient(to left top, #ffe8d8, #f4ebd5, #e5efd8, #d7f1e1, #cdf2ee, #d0f2f6, #d6f2fc, #def2ff, #e9f4ff, #f3f7ff, #fafbff, #ffffff);
 }
 
 .last_text {
@@ -2172,7 +2177,8 @@ section {
 
 
 .tetniomial_section_bg {
-  background-color: #E7F3FE80;
+  background-image: linear-gradient(to left top, #ffe8d8, #f4ebd5, #e5efd8, #d7f1e1, #cdf2ee, #d0f2f6, #d6f2fc, #def2ff, #e9f4ff, #f3f7ff, #fafbff, #ffffff);
+  border-radius: 10px;
 }
 
 
@@ -2190,7 +2196,7 @@ section {
 /* Example of increasing specificity */
 .testimonials .swiper-button-next,
 .testimonials .swiper-button-prev {
-  color: #E7F3FE80;
+  color: transparent;
   ;
   background: linear-gradient(180deg, #0F88DC 0%, #0E84D6 100%);
   padding: 3px;
@@ -2235,8 +2241,8 @@ section {
 
 .sevice_bg_color{
 
-  background: #EEF7F9;
-
+  background-image: linear-gradient(to bottom, #ffe8d8, #fde8d9, #fbe9da, #fae9dc, #f8e9dd, #faeae2, #fbebe6, #fbedeb, #fcf1f3, #fcf6f9, #fdfbfd, #ffffff);
+border-radius: 10px;
 }
 
 .contaner_inner{
@@ -2353,4 +2359,48 @@ section {
   
 .txt_ask{
   margin-left: -60px;
+}
+
+.contact_form_section{
+  background-image: linear-gradient(to bottom, #ffe8d8, #fde8d9, #fbe9da, #fae9dc, #f8e9dd, #faeae2, #fbebe6, #fbedeb, #fcf1f3, #fcf6f9, #fdfbfd, #ffffff);
+}
+
+.contact_form{
+   
+  
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+  transition: box-shadow 0.3s ease-in-out;
+  background-image: linear-gradient(to bottom, #ffe8d8, #fde8d9, #fbe9da, #fae9dc, #f8e9dd, #faeae2, #fbebe6, #fbedeb, #fcf1f3, #fcf6f9, #fdfbfd, #ffffff);
+  border-radius: 10px;
+  padding: 50px;
+}
+
+.contact_form:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+@media (min-width:992px) {
+  
+  .text_contact_are{
+    margin-top: 150px;
+  }
+}
+@media (max-width:992px) {
+  
+  .text_contact_are{
+    margin-top: 50px;
+  }
+}
+.p_text_form{
+margin-top: 20px;
+  color: #555555;
+  font-family: "Mukta Vaani";
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.h_text_form{
+  color: #09174e;
+  font-family: "Mukta Vaani";
+  font-weight: 700;
+  /* font-size: 20px; */
 }
