@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $email = $_POST['email'] ?? '';
     $date = $_POST['date'] ?? '';
     $department = $_POST['department'] ?? '';
-    $doctor = $_POST['doctor'] ?? '';
+    
     $message = $_POST['message'] ?? '';
 
 
@@ -25,15 +25,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'tripuramindcare@gmail.com'; // Your Gmail email address
-        $mail->Password = 'ucnvynbxdvsfmdbm'; // Your Gmail password
+        $mail->Username = 'oncologyask@gmail.com'; // Your Gmail email address
+        $mail->Password = 'bixkgpnhcjyspthj'; // Your Gmail password
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
         // Recipients
-        $mail->setFrom('tripuramindcare@gmail.com', 'Tripura-mind-care'); // Your Gmail email and name
-        $mail->addAddress('tripuramindcare@gmail.com', 'Tripura-mind-care'); // Recipient's email and name
-        // Content
+        $mail->setFrom('oncologyask@gmail.com', 'Ask-Oncologist.com'); // Your Gmail email and name
+        $mail->addAddress('oncologyask@gmail.com', 'Ask-Oncologist.com'); // Recipient's email and name
+
+// Content
         $mail->isHTML(true);
         $mail->Subject = 'New Message from Appointment form';
         $mail->Body = "
@@ -44,8 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <p><strong>Email:</strong> $email</p>
             <p><strong>Date:</strong> $date</p>
             <p><strong>Department:</strong> $department</p>
-            <p><strong>Doctor:</strong> $doctor</p>
-            <p><strong>Message:</strong><br>$message</p>
+            <p><strong>Message:</strong>$message</p>
         ";
 
         $mail->send();

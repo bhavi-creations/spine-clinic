@@ -1,8 +1,10 @@
 <?php
 $host = 'localhost';
-$db = 'drakrtripuramindcareandpolyclinic';
-$user = 'drakrtripuramind';
-$pass = '9rTHaMUNGyUaaW1';
+$db = 'oncologist';
+$user = 'root';
+$pass = '';
+ 
+
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);

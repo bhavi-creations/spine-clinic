@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Tripura-Mind-Care - Dashboard</title>
+    <title>Ask-Oncologist - Dashboard</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -76,18 +76,7 @@
 
                                 <?php
                                 // Database connection (replace with your actual database connection details)
-                                $servername = "localhost";
-                                $username = "drakrtripuramind";
-                                $password = "9rTHaMUNGyUaaW1";
-                                $dbname = "drakrtripuramindcareandpolyclinic";
-
-                                // Create connection
-                                $conn = new mysqli($servername, $username, $password, $dbname);
-
-                                // Check connection
-                                if ($conn->connect_error) {
-                                    die("Connection failed: " . $conn->connect_error);
-                                }
+                                include '../../db.connection/db_connection.php';
 
                                 // Fetch blog data
                                 $sql = "SELECT id, title, content, video FROM blog";
@@ -193,7 +182,7 @@
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
                     <div class="footer-widget__copyright">
-              <p class="mini_text" style="color:black"> ©2024 Tripura-Mind-Care . All Rights Reserved. Designed &
+              <p class="mini_text" style="color:black"> ©2024 Ask-Oncologist . All Rights Reserved. Designed &
                 Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi
                   Creations</a></p>
             </div>
@@ -228,7 +217,7 @@
                 </div>
                 <div class="modal-footer">
                     <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-                    <a class="btn btn-primary" href="login.html">Logout</a>
+                    <a class="btn btn-primary" href="login.php">Logout</a>
                 </div>
             </div>
         </div>

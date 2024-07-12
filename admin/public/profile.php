@@ -12,7 +12,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Tripura-Mind-Care - Dashboard</title>
+    <title>Ask-Oncologist - Dashboard</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -46,7 +46,7 @@
                 ?>
                  <?php
 
-include '../includes/db.php';
+include '../../db.connection/db_connection.php';
    $id=$_SESSION['user_id'];
     $stmt = $pdo->prepare("SELECT * FROM users WHERE id = ? ");
     $stmt->execute([$id]);
@@ -119,7 +119,7 @@ include '../includes/db.php';
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
                     <div class="footer-widget__copyright">
-              <p class="mini_text" style="color:black"> ©2024 Tripura-Mind-Care . All Rights Reserved. Designed &
+              <p class="mini_text" style="color:black"> ©2024 Ask-Oncologist . All Rights Reserved. Designed &
                 Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi
                   Creations</a></p>
             </div>

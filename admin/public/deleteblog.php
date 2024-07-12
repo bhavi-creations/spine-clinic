@@ -1,17 +1,6 @@
 <?php
 // Database connection (replace with your actual database connection details)
-$servername = "localhost";
-$username = "drakrtripuramind";
-$password = "9rTHaMUNGyUaaW1";
-$dbname = "drakrtripuramindcareandpolyclinic";
-
-// Create connection
-$conn = new mysqli($servername, $username, $password, $dbname);
-
-// Check connection
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
-}
+include '../../db.connection/db_connection.php';
 
 // Check if the id is set in the URL
 if (isset($_GET['id'])) {
