@@ -1198,8 +1198,8 @@ section {
 }
 
 .departments .nav-link.active {
-  background: rgba(55, 49, 49, 0.695);
-  border-color: #f3a871;
+  background: rgba(189, 255, 255, 0.695);
+  border-color: #ff842d;
 }
 
 .departments .nav-link.active h4 {
@@ -1817,7 +1817,7 @@ section {
   font-size: 18px;
   display: inline-block;
 
-  background: #0E84D6;
+  background: #da6e2e;
 
   color: #fff;
   line-height: 1;
@@ -2133,7 +2133,7 @@ section {
 }
 
 .colr_purple {
-  color: #A256B0;
+  color: #da6e2e;
 }
 
 

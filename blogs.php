@@ -11,7 +11,8 @@ $result = $conn->query($sql);
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Ask-Oncologist</title>
+  <title>Spine 360</title>
+
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -51,39 +52,34 @@ $result = $conn->query($sql);
   <!-- ======= Header ======= -->
   <header id="header" class="main_images">
     <div class="container d-flex align-items-center">
+      <div class="logo-text-container d-flex align-items-center" style="z-index: 999">
+        <a href="index.php" class="logo" style="margin-right: 10px">
+          <img src="assets/img/spain/spain_logo.png" alt="" />
+        </a>
 
-    <div class="logo-text-container d-flex align-items-center" style="z-index: 999;">
-         <a href="index.php" class="logo" style="margin-right: 10px;">
-           <img src="assets/img/oncoligist/Oncology logo.png" alt="">
-         </a>
-         <div class="logo-text  side_logo_text">
-           <p class="img_icon_logo" >Dr. K Pradeep Bhaskar</p>
-           <p class="degrees_logo_txt">MBBS,DNB(Rad Onc)</p>
-           <p class="degrees_logo_txt">FIGRS(Fellowship in Stereotactic Radiosurgery)</p>
-           <p class="degrees_logo_txt">consultant Radiation Oncologist</p>
-
-         </div>
-       </div>
+      </div>
 
       <nav id="navbar" class="navbar order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto" href="index.php">Home</a></li>
-          <li><a class="nav-link scrollto" href="index.php#about">About</a></li>
-          <li><a class="nav-link scrollto" href="index.php#facilities">Facilities</a></li>
+          <li><a class="nav-link scrollto" href="#bb">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li>
+            <a class="nav-link scrollto" href="#facilities">Services</a>
+          </li>
           <!-- <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li> -->
           <li><a class="nav-link" href="blogs.php">Blogs</a></li>
-          <li><a class="nav-link scrollto" href="index.php#contact">Contact</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
+      </nav>
+      <!-- .navbar -->
 
-      <a href="index.php#appointment" class="appointment-btn scrollto" style="z-index: 999;">
-      <span class="d-none d-md-inline">Ask</span> Oncoogist
-
+      <a href="#appointment" class="appointment-btn scrollto" style="z-index: 999">
+        <span class="d-none d-md-inline">Book</span> Appointment
       </a>
-
     </div>
   </header>
+
 
 
   <main>
@@ -298,153 +294,72 @@ $result = $conn->query($sql);
   </main>
   <!-- ======= Footer ======= -->
   <footer id="footer">
-      <div class="footer-top">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-4 d-flex flex-row justify-content-center">
-              <div class="footer-info">
-                <!-- <a href="index.php" class="logo me-auto "><img src="assets/img/oncoligist/Oncology logo.png" style="height:350px;" alt=""></a> -->
-                <a href="index.php" class="img-fluid">
-                  <img
-                    src="assets/img/oncoligist/Oncology logo.png"
-                    style="height: 350px"
-                    alt=""
-                /></a>
-              </div>
-              <!-- <div class="footer-info d-block d-xl-none">
-              <a href="index.php" class="logo me-auto "><img src="assets/img/oncoligist/Oncology logo.png" class="img-fluid" alt=""></a>
-
-            </div> -->
-            </div>
-
-            <div class="col-md-4 d-flex flex-row justify-content-center" >
-              <div class="footer-info  d-none d-lg-block">
-    
-                <a href="index.php" class="img-fluid" >
-                  <img
-                    src="assets/img/oncoligist/ask_text.png"
-                    style="height: 350px;"
-                    alt=""
-                    class="txt_ask"
-                /></a>
-              </div>
-              <div class="footer-info  d-none d-md-block d-lg-none">
-    
-                <a href="index.php" class="img-fluid" >
-                  <img
-                    src="assets/img/oncoligist/ask_text.png"
-                    style="height: 250px;margin-top: 50px;"
-                    alt=""
-               
-                /></a>
-              </div>
-              <div class="footer-info   d-md-none ">
-    
-                <a href="index.php" class="img-fluid" >
-                  <img
-                    src="assets/img/oncoligist/ask_text.png"
-                    style="height: 250px;margin-top: -190px;margin-bottom: -100px; "
-                    alt=""
-               
-                /></a>
-              </div>
-     
-            </div>
-
-            <div class="col-md-4 footer-newsletter  onl_top"   >
-              <p class="mt-2">
-                <span class="phone_email">
-                  <strong
-                    ><i class="fa-solid fa-phone colr_purple">
-                      &nbsp;</i
-                    ></strong
-                  ></span
-                >
-                <span class="mini_text"> +91 84069 07980 </span>
-                <br />
-                <span class="phone_email">
-                  <strong
-                    ><i class="fa-solid fa-envelope colr_purple"></i>
-                    &nbsp;</strong
-                  ></span
-                >
-                <span class="mini_text"> prabhaleo2003@gmail.com</span> <br />
-              </p>
-              <p class="mt-4 mini_text last_padding_text">
-                Get the latest updates on cancer treatments, research, and
-                patient care. Our blog helps patients and families navigate
-                cancer diagnosis and treatment.
-              </p>
-              <div class="social-links mt-3">
-                <a
-                  href="https://www.facebook.com/askoncologist"
-                  target="_blank"
-                  class="facebook"
-                  ><i class="bx bxl-facebook"></i
-                ></a>
-                <a
-                  href="https://www.instagram.com/ask_oncologist/"
-                  target="_blank"
-                  class="instagram"
-                  ><i class="bx bxl-instagram"></i
-                ></a>
-                <a
-                  href="https://in.pinterest.com/askoncologist/"
-                  target="_blank"
-                  class="pinterest"
-                  ><i class="bx bxl-pinterest"></i
-                ></a>
-                <a
-                  href="https://www.youtube.com/@askoncologist"
-                  target="_blank"
-                  class="twitter"
-                  ><i class="bx bxl-youtube"></i
-                ></a>
-              </div>
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-7 d-flex flex-row justify-content-center">
+            <div class="footer-info">
+              <a href="index.php" class="img-fluid">
+                <img src="assets/img/spain/spain_logo.png" style="height: 350px" alt="" /></a>
             </div>
 
           </div>
-        </div>
-      </div>
 
-      <div class="footer-area-bottom theme-bg">
-        <div class="container">
-          <div class="row pt-4">
-            <div class="col-xl-8 col-lg-9 col-md-12 col-12">
-              <div class="footer-widget__copyright">
-                <p class="mini_text last_text" style="color: #737373">
-                  ©2024 Ask-Oncologist . All Rights Reserved. Designed &
-                  Developed by
-                  <a
-                    href="https://bhavicreations.com/"
-                    target="_blank"
-                    style="text-decoration: none; color: #737373"
-                    >Bhavi Creations</a
-                  >
-                </p>
-              </div>
-            </div>
-            <div class="col-xl-4 col-lg-3 col-md-12 col-12">
-              <div class="footer-widget__copyright-info info-direction">
-                <p class="mini_text last_text">
-                  <a
-                    href="terms.html"
-                    style="text-decoration: none; color: #737373"
-                    >Terms & conditions
-                  </a>
-                  <a
-                    href="privacy.html"
-                    style="text-decoration: none; color: #737373"
-                  >
-                    Privacy & policy</a
-                  >
-                </p>
-              </div>
+
+          <div class="col-md-5 footer-newsletter onl_top">
+            <p class="mt-2">
+              <span class="phone_email">
+                <strong><i class="fa-solid fa-phone colr_purple">
+                    &nbsp;</i></strong></span>
+              <span class="mini_text"> +91 81798 40439, &nbsp; +91 83744 49769 </span>
+              <br />
+              <span class="phone_email">
+                <strong><i class="fa-solid fa-envelope colr_purple"></i>
+                  &nbsp;</strong></span>
+              <span class="mini_text"> @gmail.com</span> <br />
+            </p>
+
+            <p class="mt-4 mini_text last_padding_text">
+              <strong>Address </strong> <br>
+              1st Floor, Quality Care diagnostics, Chinta Vari Street, Bhanugudi, Kakinada. Pin No: 533003
+            </p>
+            <div class="social-links mt-3">
+              <a href=" " target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href=" " target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href=" " target="_blank" class="pinterest"><i class="bx bxl-pinterest"></i></a>
+              <a href=" " target="_blank" class="twitter"><i class="bx bxl-youtube"></i></a>
             </div>
           </div>
         </div>
       </div>
-    </footer>
+    </div>
+
+    <div class="footer-area-bottom theme-bg">
+      <div class="container">
+        <div class="row pt-4">
+          <div class="col-xl-8 col-lg-9 col-md-12 col-12">
+            <div class="footer-widget__copyright">
+              <p class="mini_text last_text" style="color: #737373">
+                ©2024 Spain 360 . All Rights Reserved. Designed &
+                Developed by
+                <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none; color: #737373">Bhavi Creations</a>
+              </p>
+            </div>
+          </div>
+          <div class="col-xl-4 col-lg-3 col-md-12 col-12">
+            <div class="footer-widget__copyright-info info-direction">
+              <p class="mini_text last_text">
+                <a href="terms.html" style="text-decoration: none; color: #737373">Terms & conditions
+                </a>
+                <a href="privacy.html" style="text-decoration: none; color: #737373">
+                  Privacy & policy</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
 
 
   <!-- End Footer -->
@@ -501,24 +416,22 @@ $result = $conn->query($sql);
   </style>
 
 
-  <a href="https://api.whatsapp.com/send?phone=918406907980" style="color: #fff;" class="whatsapp-link" target="_blank">
-    <i class="fab fa-whatsapp"></i>
-  </a>
+  <a href="https://api.whatsapp.com/send?phone=918179840439" style="color: #fff" class="whatsapp-link" target="_blank">
 
 
-  <div id="preloader"></div>
-  <!-- <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->
+    <div id="preloader"></div>
+    <!-- <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
 
 
 
