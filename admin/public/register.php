@@ -22,7 +22,7 @@
 
 </head>
 
-<body style="background: #A9A8D4;"  >
+<body style="background-image: linear-gradient(to right top, #86ceeb, #98d5ed, #a8dbf0, #b8e2f2, #c8e8f5, #c6ecf9, #c4effc, #c2f3ff, #acf5ff, #94f7ff, #7af9fa, #5ffbf1);"  >
 
     <div class="container">
 
