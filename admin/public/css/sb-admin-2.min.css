@@ -11763,8 +11763,10 @@ a:focus {
         vertical-align: 0;
         border: 0;
         font-weight: 900;
+        color: black;
         content: '\f107';
         font-family: 'Font Awesome 5 Free'
+        
     }
 
     .sidebar .nav-item .nav-link[data-toggle=collapse].collapsed::after {
@@ -11917,21 +11919,23 @@ a:focus {
 }
 
 .sidebar-dark .sidebar-heading {
-    color: rgba(255, 255, 255, .4)
+    color: black;
+    font-weight: 500;
 }
 
 .sidebar-dark .nav-item .nav-link {
-    color: rgba(255, 255, 255, .8)
+    color: black
 }
 
 .sidebar-dark .nav-item .nav-link i {
-    color: rgba(255, 255, 255, .3)
+    color: rgba(255, 255, 255, .3);
+    font-weight: 800;
 }
 
 .sidebar-dark .nav-item .nav-link:active,
 .sidebar-dark .nav-item .nav-link:focus,
 .sidebar-dark .nav-item .nav-link:hover {
-    color: #fff
+    color: black
 }
 
 .sidebar-dark .nav-item .nav-link:active i,
@@ -11941,11 +11945,12 @@ a:focus {
 }
 
 .sidebar-dark .nav-item .nav-link[data-toggle=collapse]::after {
-    color: rgba(255, 255, 255, .5)
+    color: black
 }
 
 .sidebar-dark .nav-item.active .nav-link {
-    color: #fff
+    color: black;
+    font-weight: 800;
 }
 
 .sidebar-dark .nav-item.active .nav-link i {
@@ -11953,16 +11958,16 @@ a:focus {
 }
 
 .sidebar-dark #sidebarToggle {
-    background-color: rgba(255, 255, 255, .2)
+    background-color: #000
 }
 
 .sidebar-dark #sidebarToggle::after {
-    color: rgba(255, 255, 255, .5)
+    color: white
 }
 
-.sidebar-dark #sidebarToggle:hover {
+/* .sidebar-dark #sidebarToggle:hover {
     background-color: rgba(255, 255, 255, .25)
-}
+} */
 
 .sidebar-dark.toggled #sidebarToggle::after {
     color: rgba(255, 255, 255, .5)

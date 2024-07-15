@@ -97,12 +97,12 @@
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true" style="margin-top: 100px !important">
+      <span class="carousel-control-prev-icon  carsoul_item_arrow" aria-hidden="true" >
       </span>
       <span class="visually-hidden">Previous</span>
     </button>
     <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true" style="margin-top: 100px !important"></span>
+      <span class="carousel-control-next-icon carsoul_item_arrow" aria-hidden="true"  ></span>
       <span class="visually-hidden">Next</span>
     </button>
   </div>
@@ -134,7 +134,7 @@
           </div>
 
           <div class="col-md-6" data-aos="fade-right" class="">
-            <img src="assets/img/oncoligist/Wheel boy.png" class="img-fluid img_padding" alt="" />
+            <img src="assets/img/spain/madhav (4).webp" class="img-fluid img_padding" alt="" />
           </div>
         </div>
       </div>
@@ -564,7 +564,7 @@
                 <!-- <div class="error-message"></div> -->
                 <!-- <div class="sent-message">Your appointment request has been sent successfully. Thank you!</div> -->
               </div>
-              <div class="text-center">
+              <div class="text-center mb-5">
                 <button type="submit">Make an Appointment</button>
               </div>
             </form>
@@ -599,7 +599,7 @@
           $result = $conn->query($sql); ?>
 
           <?php while ($row = $result->fetch_assoc()) : ?>
-            <div class="col px-5 py-2">
+            <div class="col-12 col-md-4 px-5 py-2">
               <div class="card h-100">
                 <video class="custom-video" autoplay muted controls style="width: 100%; height: auto">
                   <source src="admin/public/uploads/videos/<?php echo $row['video']; ?>" type="video/mp4" />
@@ -892,7 +892,7 @@
             <div class="social-links mt-3">
               <a href=" " target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
               <a href=" " target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href=" " target="_blank" class="pinterest"><i class="bx bxl-pinterest"></i></a>
+              <!-- <a href=" " target="_blank" class="pinterest"><i class="bx bxl-pinterest"></i></a> -->
               <a href=" " target="_blank" class="twitter"><i class="bx bxl-youtube"></i></a>
             </div>
           </div>

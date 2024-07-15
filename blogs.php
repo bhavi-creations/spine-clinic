@@ -61,20 +61,20 @@ $result = $conn->query($sql);
 
       <nav id="navbar" class="navbar order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto" href="#bb">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="index.php#bb">Home</a></li>
+          <li><a class="nav-link scrollto" href="index.php#about">About</a></li>
           <li>
-            <a class="nav-link scrollto" href="#facilities">Services</a>
+            <a class="nav-link scrollto" href="index.php#facilities">Services</a>
           </li>
           <!-- <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li> -->
           <li><a class="nav-link" href="blogs.php">Blogs</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="nav-link scrollto" href="index.php#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
       <!-- .navbar -->
 
-      <a href="#appointment" class="appointment-btn scrollto" style="z-index: 999">
+      <a href="index.php#appointment" class="appointment-btn scrollto" style="z-index: 999">
         <span class="d-none d-md-inline">Book</span> Appointment
       </a>
     </div>
@@ -86,7 +86,7 @@ $result = $conn->query($sql);
     <!-- ======= Blogs Section ======= -->
     <section id="blogs">
       <div class="container">
-        <div class="section-title" style="margin-top: 100px;">
+        <div class="section-title" >
           <h2>Blogs</h2>
         </div>
 

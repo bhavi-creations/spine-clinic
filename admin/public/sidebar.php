@@ -1,6 +1,5 @@
-<ul class="navbar-nav   sidebar sidebar-dark accordion" id="accordionSidebar" style="background-color: #A9A8D4;
-;
-;">
+<ul class="navbar-nav   sidebar sidebar-dark accordion" id="accordionSidebar"  
+style="background-image: linear-gradient(to right top, #86ceeb, #98d5ed, #a8dbf0, #b8e2f2, #c8e8f5, #c6ecf9, #c4effc, #c2f3ff, #acf5ff, #94f7ff, #7af9fa, #5ffbf1);">
 
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center  bg-light text-primary" href="./index.php">
@@ -16,7 +15,7 @@
     <!-- Nav Item - Dashboard -->
     <li class="nav-item active">
         <a class="nav-link" href="index.php">
-            <i class="fas fa-fw fa-tachometer-alt"></i>
+            <i class="fas fa-fw fa-tachometer-alt  " style="color: black;"></i>
             <span>Dashboard</span></a>
     </li>
 
@@ -31,7 +30,7 @@
     <!-- Nav Item - Pages Collapse Menu -->
     <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-            <i class="fas fa-fw fa-blog"></i>
+            <i class="fas fa-fw fa-blog" style="color: black;"></i>
             <span>BLOGS</span>
         </a>
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
