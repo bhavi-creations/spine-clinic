@@ -7,9 +7,9 @@ if ($_SERVER['SERVER_NAME'] == 'localhost') {
     $password = "";
     $dbname = "spine";
 } else {
-    $username = " ";
-    $password = " ";
-    $dbname = " ";
+    $username = "spine360";
+    $password = "89eW3SV5UtDdMAc";
+    $dbname = "spine360";
 }
 
 // Create connection
