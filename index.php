@@ -890,10 +890,10 @@
               Bhanugudi, Kakinada. Pin No: 533003
             </p>
             <div class="social-links mt-3">
-              <a href=" " target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href=" " target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="https://www.facebook.com/spine360clinic" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.instagram.com/spine360clinic/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
               <!-- <a href=" " target="_blank" class="pinterest"><i class="bx bxl-pinterest"></i></a> -->
-              <a href=" " target="_blank" class="twitter"><i class="bx bxl-youtube"></i></a>
+              <a href="https://www.youtube.com/@spine360clinic" target="_blank" class="twitter"><i class="bx bxl-youtube"></i></a>
             </div>
           </div>
         </div>

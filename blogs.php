@@ -302,16 +302,16 @@ $result = $conn->query($sql);
               <a href="index.php" class="img-fluid">
                 <img src="assets/img/spain/spain_logo.png" style="height: 350px" alt="" /></a>
             </div>
-
           </div>
-
 
           <div class="col-md-5 footer-newsletter onl_top">
             <p class="mt-2">
               <span class="phone_email">
                 <strong><i class="fa-solid fa-phone colr_purple">
                     &nbsp;</i></strong></span>
-              <span class="mini_text"> +91 81798 40439, &nbsp; +91 83744 49769 </span>
+              <span class="mini_text">
+                +91 81798 40439, &nbsp; +91 83744 49769
+              </span>
               <br />
               <span class="phone_email">
                 <strong><i class="fa-solid fa-envelope colr_purple"></i>
@@ -320,14 +320,15 @@ $result = $conn->query($sql);
             </p>
 
             <p class="mt-4 mini_text last_padding_text">
-              <strong>Address </strong> <br>
-              1st Floor, Quality Care diagnostics, Chinta Vari Street, Bhanugudi, Kakinada. Pin No: 533003
+              <strong>Address </strong> <br />
+              1st Floor, Quality Care diagnostics, Chinta Vari Street,
+              Bhanugudi, Kakinada. Pin No: 533003
             </p>
             <div class="social-links mt-3">
-              <a href=" " target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href=" " target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href=" " target="_blank" class="pinterest"><i class="bx bxl-pinterest"></i></a>
-              <a href=" " target="_blank" class="twitter"><i class="bx bxl-youtube"></i></a>
+              <a href="https://www.facebook.com/spine360clinic" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.instagram.com/spine360clinic/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <!-- <a href=" " target="_blank" class="pinterest"><i class="bx bxl-pinterest"></i></a> -->
+              <a href="https://www.youtube.com/@spine360clinic" target="_blank" class="twitter"><i class="bx bxl-youtube"></i></a>
             </div>
           </div>
         </div>
@@ -340,8 +341,8 @@ $result = $conn->query($sql);
           <div class="col-xl-8 col-lg-9 col-md-12 col-12">
             <div class="footer-widget__copyright">
               <p class="mini_text last_text" style="color: #737373">
-                ©2024 Spain 360 . All Rights Reserved. Designed &
-                Developed by
+                ©2024 Spain 360 . All Rights Reserved. Designed & Developed
+                by
                 <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none; color: #737373">Bhavi Creations</a>
               </p>
             </div>
@@ -360,6 +361,7 @@ $result = $conn->query($sql);
       </div>
     </div>
   </footer>
+
 
 
   <!-- End Footer -->
