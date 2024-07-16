@@ -419,7 +419,8 @@ $result = $conn->query($sql);
 
 
   <a href="https://api.whatsapp.com/send?phone=918179840439" style="color: #fff" class="whatsapp-link" target="_blank">
-
+  <i class="fab fa-whatsapp"></i>
+    </a>
 
     <div id="preloader"></div>
     <!-- <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a> -->
