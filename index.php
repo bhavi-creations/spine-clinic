@@ -52,7 +52,7 @@
   <header id="header" class="main_images">
     <div class="container d-flex align-items-center">
       <div class="logo-text-container d-flex align-items-center" style="z-index: 999">
-        <a href="index.php" class="logo" style="margin-right: 10px">
+        <a href="index.php" class="logo  nav_side_space"  >
           <img src="assets/img/spain/spain_logo.png" alt="" />
         </a>
 
@@ -78,7 +78,7 @@
       </a>
     </div>
   </header>
-
+  
   <!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
