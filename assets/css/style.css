@@ -2005,7 +2005,7 @@ section {
 
   font-weight: 800;
   font-size: 35px;
-  color: #f3a871;
+  color: #f17e2d;
   ;
 }
 
@@ -2438,4 +2438,13 @@ margin-top: 20px;
   .nav_side_space{
     margin-right: 60px !important;
   }
+}
+
+.main_heading_color{
+  /* background: linear-gradient(to right, #ff7e5f, #feb47b); */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  background-image: linear-gradient(to right, #da6e2e, #e75b62, #d95b93, #b26bb9, #787ccb,  #8987ce, #c383c1, #e884a6, #f89088, #f2a770);
+  font-weight: 1000;
 }

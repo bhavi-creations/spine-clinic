@@ -52,7 +52,7 @@
   <header id="header" class="main_images">
     <div class="container d-flex align-items-center">
       <div class="logo-text-container d-flex align-items-center" style="z-index: 999">
-        <a href="index.php" class="logo  nav_side_space"  >
+        <a href="index.php" class="logo  nav_side_space" style="">
           <img src="assets/img/spain/spain_logo.png" alt="" />
         </a>
 
@@ -78,7 +78,7 @@
       </a>
     </div>
   </header>
-  
+
   <!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
@@ -97,12 +97,12 @@
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon  carsoul_item_arrow" aria-hidden="true" >
+      <span class="carousel-control-prev-icon  carsoul_item_arrow" aria-hidden="true">
       </span>
       <span class="visually-hidden">Previous</span>
     </button>
     <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-      <span class="carousel-control-next-icon carsoul_item_arrow" aria-hidden="true"  ></span>
+      <span class="carousel-control-next-icon carsoul_item_arrow" aria-hidden="true"></span>
       <span class="visually-hidden">Next</span>
     </button>
   </div>
@@ -110,18 +110,25 @@
 
 
   <main id="main">
+
+    <section>
+      <div class="section-title text-center">
+        <h1 class="main_heading_color"> Your One-Stop Solution for Comprehensive Spine and Orthopedic Care </h1>
+         <h5 class="   px-5 p-4"> <strong>Dr. Madhava Reddy's Center for Spine and Orthopedic Care is committed to delivering exceptional care and treatment through a comprehensive range of spine and orthopedic services. Our clinic focuses on enhancing patients' quality of life by addressing a wide spectrum of conditions, from spinal disorders to joint and musculoskeletal issues, catering to individuals of all ages. </strong></h5>
+      </div>
+    </section>
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
         <div class="row">
           <div class="col-md-6 content_padding" data-aos="fade-left">
-            <h2 class="welcome_text">WELCOME TO THE</h2>
+
             <h2 class="welcome_text_oncology">
-              Dr.Madhav's Spine 360 Clinic
+              Dr.MADHAVA  REDDY's <br> Spine 360
             </h2>
             <p class="poetsen_font">
-              is dedicated to providing comprehensive spine care under the expert guidance of Dr. Madhav. With advanced qualifications and a wealth of experience, Dr. Madhav is a highly respected Consultant Spine Surgeon, holding both MS Ortho and DNB Ortho degrees. <br /><br />
-              At Spine 360 Clinic, we understand the complexities of spine health and are committed to delivering personalized care tailored to each patient's needs. Our clinic offers state-of-the-art diagnostic and treatment facilities, ensuring that you receive the best possible care for your spine conditions.
+              is dedicated to providing comprehensive spine care under my expert guidance. With advanced qualifications and a wealth of experience, I am a highly respected Consultant Spine Surgeon, holding both MS Ortho and DNB Ortho degrees. <br /><br />
+              I understand the complexities of spine health and am committed to delivering personalized care tailored to each patient's needs. I offer state-of-the-art diagnostic and treatment facilities, ensuring that you receive the best possible care for your spine conditions.
             </p>
 
             <div class="d-flex flex-row justify-content-end">
@@ -141,17 +148,99 @@
     </section>
     <!-- End About Us Section -->
 
+    <section class="my-5">
+      <div class="section-title text-center">
+        <h2>specialized In</h2>
+        <p class="text-center ">
+          Minimally invasive Spaine Surgeries (MIS) <br />
+          Endoscopic / Microscopic / Keyhole
+        </p>
+      </div>
+      <div class="container">
 
+        <div class="row">
+
+          <div class="col-md-6 my-3">
+            <div class="card shadow">
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-5">
+                    <img src="assets/img/spain/sq2.jpg" class="img-fluid" />
+                  </div>
+                  <div class="col-7">
+                    <h5 class="card-title"><strong> Minimally invasive Spaine Surgeries (MIS)</strong> </h5>
+                    <p class="card-text">
+                      Our clinic excels in minimally invasive spine surgeries, ensuring reduced pain, minimal scarring, and faster recovery times. These advanced techniques allow for precise interventions with minimal disruption to surrounding tissues.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6  my-3">
+            <div class="card shadow">
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-5">
+                    <img src="assets/img/spain/sq2.jpg" class="img-fluid" />
+                  </div>
+                  <div class="col-7">
+                    <h5 class="card-title"> <strong>Endoscopic</strong> </h5>
+                    <p class="card-text">
+                      Dr. MADHAVA REDDY's expertise in endoscopic spine surgery offers patients a less invasive option for treating spine conditions. Using small incisions and specialized instruments, endoscopic procedures result in quicker recovery and reduced post-operative pain.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6  my-3">
+            <div class="card shadow">
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-5">
+                    <img src="assets/img/spain/sq2.jpg" class="img-fluid" />
+                  </div>
+                  <div class="col-7">
+                    <h5 class="card-title"><strong>Microscopic</strong> </h5>
+                    <p class="card-text">
+                      With a focus on precision, microscopic spine surgery at our clinic employs advanced microscopes to perform intricate surgeries with enhanced accuracy. This approach minimizes tissue damage and promotes better surgical outcomes.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6  my-3">
+            <div class="card shadow">
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-5">
+                    <img src="assets/img/spain/sq2.jpg" class="img-fluid" />
+                  </div>
+                  <div class="col-7">
+                    <h5 class="card-title"> <strong>Keyhole</strong></h5>
+                    <p class="card-text">
+                      Keyhole surgery, a minimally invasive technique, is one of our specialties. This procedure involves small incisions and is designed to reduce recovery time and post-operative discomfort, allowing patients to return to their daily activities sooner.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+      </div>
+    </section>
 
     <section id="facilities" class="departments">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title text-center">
-          <h2>specialized In</h2>
-          <p class="text-center service_text">
-            Minimally invasive Spaine Surgeries (MIS) <br />
-            Endoscopic / Microscopic / Keyhole
-          </p>
+          <h2>Our Services</h2>
+          <p class="service_text"></p>
         </div>
 
         <div class="container  sevice_bg_color">
@@ -314,7 +403,7 @@
 
                   <h3>About the Endoscopic</h3>
                   <p class=" ">
-                    Dr. Madhav's expertise in endoscopic spine surgery offers patients a less invasive option for treating spine conditions. Using small incisions and specialized instruments, endoscopic procedures result in quicker recovery and reduced post-operative pain.
+                    Dr. MADHAVA REDDY's expertise in endoscopic spine surgery offers patients a less invasive option for treating spine conditions. Using small incisions and specialized instruments, endoscopic procedures result in quicker recovery and reduced post-operative pain.
                   </p>
                 </div>
                 <div class="tab-pane" id="Microscopic">
@@ -355,7 +444,7 @@
                   <img src="assets/img/spain/Spondyloslithesis.webp" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>About the Spondyloslithesis</h3>
-                  <p class=" ">Our clinic offers specialized care for spondylolisthesis, a condition where a vertebra slips out of place. Dr. Madhav’s expertise ensures effective management and correction of this condition.
+                  <p class=" ">Our clinic offers specialized care for spondylolisthesis, a condition where a vertebra slips out of place. Dr. MADHAVA REDDY’s expertise ensures effective management and correction of this condition.
 
 
                   </p>
@@ -365,7 +454,7 @@
                   <img src="assets/img/spain/Dorsal.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>About the Dorsal</h3>
-                  <p class=" ">Dr. Madhav provides effective treatment for dorsal spondylosis, addressing the degeneration of the thoracic spine to alleviate pain and improve mobility.
+                  <p class=" ">Dr. MADHAVA REDDY provides effective treatment for dorsal spondylosis, addressing the degeneration of the thoracic spine to alleviate pain and improve mobility.
 
 
                   </p>
@@ -375,7 +464,7 @@
                   <img src="assets/img/spain/Lumbar Spine Surgeries.webp" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>About the Lumbar Spine Surgeries</h3>
-                  <p class=" "> Our clinic provides comprehensive lumbar spine surgeries to address a range of conditions affecting the lower back. Dr. Madhav’s proficiency in these procedures ensures effective relief from pain and restoration of mobility.
+                  <p class=" "> Our clinic provides comprehensive lumbar spine surgeries to address a range of conditions affecting the lower back. Dr. MADHAVA REDDY’s proficiency in these procedures ensures effective relief from pain and restoration of mobility.
                   </p>
 
                 </div>
@@ -402,7 +491,7 @@
                   <img src="assets/img/spain/Disc Prolapse.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>About the Disc Prolapse</h3>
-                  <p class=" "> We provide expert treatment for disc prolapse, including both conservative and surgical options. Dr. Madhav’s approach focuses on relieving pain and restoring mobility. </p>
+                  <p class=" "> We provide expert treatment for disc prolapse, including both conservative and surgical options. Dr. MADHAVA REDDY’s approach focuses on relieving pain and restoring mobility. </p>
 
                 </div>
 
@@ -412,14 +501,14 @@
                   <h3>About the Fractures</h3>
                   <p class=" ">
 
-                    Fractures are a common but serious spine condition that can significantly impact your quality of life. At Dr. Madhav's Spine 360 Clinic, we specialize in the diagnosis and treatment of spinal fractures. Dr. Madhav employs advanced surgical and non-surgical techniques to stabilize the spine, alleviate pain, and promote healing. Whether your fracture is due to an injury or a degenerative condition, our personalized care plans are designed to ensure optimal recovery and return to daily activities.</p>
+                    Fractures are a common but serious spine condition that can significantly impact your quality of life. At Dr. MADHAVA REDDY's Spine 360 Clinic, we specialize in the diagnosis and treatment of spinal fractures. Dr. MADHAVA REDDY employs advanced surgical and non-surgical techniques to stabilize the spine, alleviate pain, and promote healing. Whether your fracture is due to an injury or a degenerative condition, our personalized care plans are designed to ensure optimal recovery and return to daily activities.</p>
                 </div>
                 <div class="tab-pane" id="Trauma">
                   <img src="assets/img/spain/Trauma.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>About the Trauma</h3>
                   <p class=" ">
-                    Trauma to the spine requires immediate and expert medical attention to prevent long-term damage and complications. At Dr. Madhav's Spine 360 Clinic, we provide comprehensive care for spinal trauma resulting from accidents, falls, or other injuries. Dr. Madhav's extensive experience in managing spinal trauma ensures that patients receive prompt and effective treatment, tailored to their specific needs. Our clinic is equipped with state-of-the-art technology to accurately diagnose and treat spine injuries, facilitating the best possible recovery and restoration of function.
+                    Trauma to the spine requires immediate and expert medical attention to prevent long-term damage and complications. At Dr. MADHAVA REDDY's Spine 360 Clinic, we provide comprehensive care for spinal trauma resulting from accidents, falls, or other injuries. Dr. MADHAVA REDDY's extensive experience in managing spinal trauma ensures that patients receive prompt and effective treatment, tailored to their specific needs. Our clinic is equipped with state-of-the-art technology to accurately diagnose and treat spine injuries, facilitating the best possible recovery and restoration of function.
                   </p>
 
                 </div>
@@ -428,7 +517,7 @@
 
                   <h3>About the Spinal Tumors</h3>
                   <p class=" ">
-                    Our clinic provides specialized care for patients with spinal tumors. Dr. Madhav uses advanced surgical techniques to remove tumors while preserving spinal stability and function.
+                    Our clinic provides specialized care for patients with spinal tumors. Dr. MADHAVA REDDY uses advanced surgical techniques to remove tumors while preserving spinal stability and function.
                   </p>
 
                 </div>
@@ -436,7 +525,7 @@
                   <img src="assets/img/spain/Infections.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>About the Infections</h3>
-                  <p class=" ">We offer comprehensive treatment for spinal infections, including accurate diagnosis and tailored antibiotic therapy. Dr. Madhav's expertise ensures effective management and recovery from these serious conditions.
+                  <p class=" ">We offer comprehensive treatment for spinal infections, including accurate diagnosis and tailored antibiotic therapy. Dr. MADHAVA REDDY's expertise ensures effective management and recovery from these serious conditions.
                   </p>
 
                 </div>
@@ -444,7 +533,7 @@
                   <img src="assets/img/spain/Kochs Spine.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>About the Kochs Spine</h3>
-                  <p class=" "> Dr. Madhav is well-versed in treating Koch's spine, a complex spinal tuberculosis condition. Our clinic offers thorough diagnostic and treatment protocols to manage and overcome this challenging disease effectively.
+                  <p class=" "> Dr. MADHAVA REDDY is well-versed in treating Koch's spine, a complex spinal tuberculosis condition. Our clinic offers thorough diagnostic and treatment protocols to manage and overcome this challenging disease effectively.
                   </p>
 
                 </div>
@@ -453,7 +542,7 @@
 
                   <h3>About the Deformity Corrections</h3>
                   <p class=" ">
-                    Dr. Madhav specializes in the correction of spinal deformities such as scoliosis and kyphosis. Our clinic employs advanced surgical techniques to straighten and stabilize the spine, improving posture and quality of life.
+                    Dr. MADHAVA REDDY specializes in the correction of spinal deformities such as scoliosis and kyphosis. Our clinic employs advanced surgical techniques to straighten and stabilize the spine, improving posture and quality of life.
                   </p>
 
                 </div>
@@ -487,7 +576,7 @@
                 <!-- Add more tab-panes for other services as needed -->
               </div>
             </div>
-            
+
           </div>
         </div>
 
@@ -528,7 +617,7 @@
                 <div class="form-group mt-3">
                   <select name="department" id="department" style="border-radius: 23px" class="form-select" required>
                     <option value="">Select Service</option>
-                 
+
                     <option value="MIS">Minimally invasive Spaine Surgeries (MIS) </option>
                     <option value="Endoscopic">Endoscopic </option>
                     <option value="Microscopic">Microscopic</option>
@@ -538,7 +627,7 @@
                     <option value="Spondyloslithesis">Spondyloslithesis </option>
                     <option value="Dorsal">Dorsal </option>
                     <option value="Lumbar Spine Surgeries">Lumbar Spine Surgeries </option>
-                    <option value="Cervical Spondylosis">  Cervical Spondylosis</option>
+                    <option value="Cervical Spondylosis"> Cervical Spondylosis</option>
                     <option value="Myelopaties">Myelopaties </option>
                     <option value="Disc Prolapse">Disc Prolapse </option>
                     <option value="Fractures">Fractures</option>
@@ -550,7 +639,7 @@
                     <option value="Vertebroplasty">Vertebroplasty</option>
                     <option value="Kyphoplasty Surgeries">Kyphoplasty Surgeries</option>
                     <option value="Spinal Injections">Spinal Injections </option>
-                    
+
 
                   </select>
                 </div>
@@ -641,7 +730,7 @@
                 <img src="assets/img/tripura/profile.png" class="testimonial-img" alt="" />
 
                 <p class="poetsen_font">
-                  Dr. Madhav performed a minimally invasive spine surgery on me, and I couldn't be more pleased with the results. The procedure was smooth, and my recovery was faster than I expected. His expertise and care made all the difference. Highly recommend!
+                  Dr. MADHAVA REDDY performed a minimally invasive spine surgery on me, and I couldn't be more pleased with the results. The procedure was smooth, and my recovery was faster than I expected. His expertise and care made all the difference. Highly recommend!
                 </p>
                 <p class="text-center">⭐⭐⭐⭐⭐</p>
 
@@ -657,7 +746,7 @@
                 <img src="assets/img/tripura/profile.png" class="testimonial-img" alt="" />
 
                 <p class="poetsen_font">
-                  Undergoing endoscopic spine surgery with Dr. Madhav was a game-changer for me. The precision and minimal invasiveness of the procedure left me with minimal scars and a speedy recovery. His skill in endoscopic techniques is truly exceptional.
+                  Undergoing endoscopic spine surgery with Dr. MADHAVA REDDY was a game-changer for me. The precision and minimal invasiveness of the procedure left me with minimal scars and a speedy recovery. His skill in endoscopic techniques is truly exceptional.
                 </p>
                 <p class="text-center">⭐⭐⭐⭐⭐</p>
                 <h3 class="name_testmonial">Bhoomika</h3>
@@ -672,7 +761,7 @@
               <div class="testimonial-item text-center">
                 <img src="assets/img/tripura/profile.png" class="testimonial-img" alt="" />
                 <p class="poetsen_font">
-                  Dr. Madhav's proficiency in microscopic spine surgery is remarkable. He was able to address my complex spine issue with incredible accuracy and care. The surgery was successful, and I experienced significant relief from my symptoms. I am deeply grateful for his expertise.
+                  Dr. MADHAVA REDDY's proficiency in microscopic spine surgery is remarkable. He was able to address my complex spine issue with incredible accuracy and care. The surgery was successful, and I experienced significant relief from my symptoms. I am deeply grateful for his expertise.
                 </p>
                 <p class="text-center">⭐⭐⭐⭐⭐</p>
                 <h3 class="name_testmonial">Sirisha</h3>
@@ -686,7 +775,7 @@
               <div class="testimonial-item text-center">
                 <img src="assets/img/tripura/profile.png" class="testimonial-img" alt="" />
                 <p class="poetsen_font">
-                  Dr. Madhav's approach to keyhole spine surgery was nothing short of impressive. The minimally invasive nature of the procedure ensured a quick recovery with minimal pain. His attention to detail and patient-centered care are outstanding.
+                  Dr. MADHAVA REDDY's approach to keyhole spine surgery was nothing short of impressive. The minimally invasive nature of the procedure ensured a quick recovery with minimal pain. His attention to detail and patient-centered care are outstanding.
                 </p>
                 <p class="text-center">⭐⭐⭐⭐⭐</p>
                 <h3 class="name_testmonial">Ramesh</h3>
@@ -699,7 +788,7 @@
               <div class="testimonial-item text-center">
                 <img src="assets/img/tripura/profile.png" class="testimonial-img" alt="" />
                 <p class="poetsen_font">
-                  I underwent lumbar spine surgery at Dr. Madhav's clinic, and the results have been life-changing. The pain and discomfort I had been experiencing for years were alleviated, thanks to his exceptional surgical skills. I highly recommend him for lumbar spine issues. </p>
+                  I underwent lumbar spine surgery at Dr. MADHAVA REDDY's clinic, and the results have been life-changing. The pain and discomfort I had been experiencing for years were alleviated, thanks to his exceptional surgical skills. I highly recommend him for lumbar spine issues. </p>
                 <p class="text-center">⭐⭐⭐⭐⭐</p>
                 <h3 class="name_testmonial">Kumar</h3>
                 <p class="poetsen_font">Kakinada</p>
@@ -711,7 +800,7 @@
               <div class="testimonial-item text-center">
                 <img src="assets/img/tripura/profile.png" class="testimonial-img" alt="" />
                 <p class="poetsen_font">
-                  Dr. Madhav successfully treated my Koch's spine condition with great expertise. His thorough understanding of this complex disease and his meticulous approach to treatment gave me the confidence and hope I needed. I am now on the path to recovery, all thanks to him. </p>
+                  Dr. MADHAVA REDDY successfully treated my Koch's spine condition with great expertise. His thorough understanding of this complex disease and his meticulous approach to treatment gave me the confidence and hope I needed. I am now on the path to recovery, all thanks to him. </p>
                 <p class="text-center">⭐⭐⭐⭐⭐</p>
                 <h3 class="name_testmonial">Ramesh</h3>
                 <p class="poetsen_font">Kakinada</p>
@@ -723,7 +812,7 @@
               <div class="testimonial-item text-center">
                 <img src="assets/img/tripura/profile.png" class="testimonial-img" alt="" />
                 <p class="poetsen_font">
-                  I received spinal injections for pain management from Dr. Madhav, and the relief has been phenomenal. His precise technique and compassionate care made the process smooth and effective. I can now enjoy a better quality of life without constant pain. </p>
+                  I received spinal injections for pain management from Dr. MADHAVA REDDY, and the relief has been phenomenal. His precise technique and compassionate care made the process smooth and effective. I can now enjoy a better quality of life without constant pain. </p>
                 <p class="text-center">⭐⭐⭐⭐⭐</p>
                 <h3 class="name_testmonial">Rahul</h3>
                 <p class="poetsen_font">Kakinada</p>
