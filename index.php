@@ -222,16 +222,19 @@
             <div class="card shadow">
               <div class="card-body">
                 <div class="row">
-                  <div class="col-5">
+                  <div class="col-5 d-flex justify-content-center align-items-center">
+
                     <img src="assets/img/sliders/microscopic.jpg" class="img-fluid" />
                   </div>
-                  <div class="col-7">
-                    <h5 class="card-title"><strong>Microscopic</strong> </h5>
-                    <p class="card-text">
-                      With a focus on precision, microscopic spine surgery at our clinic employs
-                      advanced microscopes to perform intricate surgeries with enhanced accuracy.
-                      This approach minimizes tissue damage and promotes better surgical outcomes.
-                    </p>
+                  <div class="col-7 d-flex align-items-center">
+                    <div class="">
+                      <h5 class="card-title"><strong>Microscopic</strong> </h5>
+                      <p class="card-text">
+                        With a focus on precision, microscopic spine surgery at our clinic employs
+                        advanced microscopes to perform intricate surgeries with enhanced accuracy.
+                        This approach minimizes tissue damage and promotes better surgical outcomes.
+                      </p>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -243,17 +246,20 @@
               <div class="card-body">
                 <div class="row">
 
-                  <div class="col-7">
-                    <h5 class="card-title"> <strong>Endoscopic</strong> </h5>
-                    <p class="card-text">
-                      Dr. MADHAVA REDDY's expertise in endoscopic spine surgery offers patients a
-                      less invasive option for treating spine conditions. Using small incisions
-                      and specialized instruments, endoscopic procedures result in quicker
-                      recovery and reduced post-operative pain.
-                    </p>
+                  <div class="col-7 d-flex align-items-center">
+                    <div class="">
+                      <h5 class="card-title"> <strong>Endoscopic</strong> </h5>
+                      <p class="card-text">
+                        Dr. MADHAVA REDDY's expertise in endoscopic spine surgery offers patients a
+                        less invasive option for treating spine conditions. Using small incisions
+                        and specialized instruments, endoscopic procedures result in quicker
+                        recovery and reduced post-operative pain.
+                      </p>
+                    </div>
                   </div>
 
-                  <div class="col-5">
+                  <div class="col-5 d-flex justify-content-center align-items-center">
+
                     <img src="assets/img/sliders/endroscopic 2.jpg" class="img-fluid" />
                   </div>
                 </div>
@@ -262,27 +268,127 @@
           </div>
 
           <div class="col-md-12 my-3">
-  <div class="card shadow">
-    <div class="card-body d-flex align-items-center">
-      <div class="row">
-        <div class="col-5">
-          <img src="assets/img/sliders/tubler system 3.jpg" class="img-fluid" />
-        </div>
-        <div class="col-7">
-          <h5 class="card-title"><strong>Tubler</strong></h5>
-          <p class="card-text">
-            Where we specialize in advanced orthopedic techniques for improved patient outcomes. Tublar surgery represents a state-of-the-art approach, offering minimally invasive solutions for various orthopedic conditions.
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+            <div class="card shadow">
+              <div class="card-body d-flex align-items-center">
+                <div class="row">
+                  <div class="col-5 d-flex justify-content-center align-items-center">
+                    <img src="assets/img/sliders/tubler system 3.jpg" class="img-fluid" />
+                  </div>
+                  <div class="col-7 d-flex align-items-center">
+                    <div>
+                      <h5 class="card-title"><strong>Tubler</strong></h5>
+                      <p class="card-text">
+                        Where we specialize in advanced orthopedic techniques for improved patient outcomes. Tublar surgery represents a state-of-the-art approach, offering minimally invasive solutions for various orthopedic conditions.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 
 
 
 
         </div>
+         
+
+        <div class="section-title text-center seven">
+          <h1 class="mt-5">Open Spine Surgery </h1>
+          
+        </div>
+
+          <div class="row">
+
+            <div class="col-md-4 my-3">
+              <div class="card">
+                <div class="card-body">
+                  <div class="row">
+                    
+                   
+                      <h5 class="card-title">Multilevel regenerative spine</h5>
+                       
+                   
+                  </div>
+                </div>
+              </div>
+            </div> 
+        
+
+            <div class="col-md-4 my-3">
+              <div class="card">
+                <div class="card-body">
+                  <div class="row">
+                    
+                   
+                      <h5 class="card-title">Complex spinal pathologies</h5>
+                       
+                   
+                  </div>
+                </div>
+              </div>
+            </div> 
+        
+            <div class="col-md-4 my-3">
+              <div class="card">
+                <div class="card-body">
+                  <div class="row">
+                    
+                   
+                      <h5 class="card-title">Koch's spine / infections</h5>
+                       
+                   
+                  </div>
+                </div>
+              </div>
+            </div> 
+        
+            <div class="col-md-4 my-3">
+              <div class="card">
+                <div class="card-body">
+                  <div class="row">
+                    
+                   
+                      <h5 class="card-title">Cervical myelopathies</h5>
+                       
+                   
+                  </div>
+                </div>
+              </div>
+            </div> 
+        
+            <div class="col-md-4 my-3">
+              <div class="card">
+                <div class="card-body">
+                  <div class="row">
+                    
+                   
+                      <h5 class="card-title">Spinal tumors</h5>
+                       
+                   
+                  </div>
+                </div>
+              </div>
+            </div> 
+        
+            <div class="col-md-4 my-3">
+              <div class="card">
+                <div class="card-body">
+                  <div class="row">
+                    
+                   
+                      <h5 class="card-title">Deformity corrections</h5>
+                       
+                   
+                  </div>
+                </div>
+              </div>
+            </div> 
+        
+          </div>
+        
+      </section>
+
       </div>
     </section>
 
