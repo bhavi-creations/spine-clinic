@@ -2283,6 +2283,7 @@ border-radius: 10px;
     #fdfbfd,
     #ffffff
   );
+  background: #5db9e354;
 }
 
 .contact_form {
@@ -2621,4 +2622,45 @@ img.img-fluid.appoinment {
   width: 77%;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
     rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.openSpine {
+  color: white;
+  text-align: center;
+  font-family: "Mulish";
+  font-weight: 700;
+}
+.card-body.opener {
+  background-image: linear-gradient(
+    to left,
+    #19516a,
+    #22617e,
+    #2b7292,
+    #3483a7,
+    #3d95bc,
+    #3f9ac2,
+    #409ec8,
+    #42a3ce,
+    #3c9bc6,
+    #3794be,
+    #318cb6,
+    #2b85ae
+  );
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+  border-radius: 10px;
+}
+.card-body.blogbody {
+  background: #19516a;
+  color: white;
+  text-align: center;
+}
+.card-footer.blogfooter {
+  background: aliceblue;
+  color: black;
+  text-align: center;
+  font-weight: 500;
+}
+.card.blogcard.h-100 {
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+    rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
 }
