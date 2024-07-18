@@ -11,7 +11,7 @@ $result = $conn->query($sql);
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Spine 360</title>
+  <title>Spine 360°</title>
 
   <meta content="" name="description">
   <meta content="" name="keywords">
@@ -341,7 +341,7 @@ $result = $conn->query($sql);
           <div class="col-xl-8 col-lg-9 col-md-12 col-12">
             <div class="footer-widget__copyright">
               <p class="mini_text last_text" style="color: #737373">
-                ©2024 Spain 360 . All Rights Reserved. Designed & Developed
+                ©2024 Spain 360° . All Rights Reserved. Designed & Developed
                 by
                 <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none; color: #737373">Bhavi Creations</a>
               </p>
