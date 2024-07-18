@@ -113,18 +113,44 @@
 
   <main id="main">
 
-    <section>
-      <div class="section-title text-center">
-        <h1 class="main_heading_color"> Your One-Stop Solution for Comprehensive Spine and Orthopedic Care </h1>
+    <section class="oneStop">
+      <div class="container">
+        <div class="row">
+          <div class="stopSection">
+            <div class="col-md-2"> <img src="assets/img/spain/sp2.png" alt="" class="spineeimg">
+            </div>
+            <div class="col-md-8">
+              <div class="section-title text-center">
+                <h1 class="main_heading_color"> Your One-Stop Solution for Comprehensive Spine and
+                  Orthopedic Care </h1>
 
-        <h5 class="   px-5 p-4"> <strong>Dr. Madhava Reddy's Center for Spine and Orthopedic Care is committed
-            to delivering exceptional care and treatment through a comprehensive range of spine and
-            orthopedic services. Our clinic focuses on enhancing patients' quality of life by addressing a
-            wide spectrum of conditions, from spinal disorders to joint and musculoskeletal issues, catering
-            to individuals of all ages. </strong></h5>
+                <h5 class="   px-5 p-4 madhav"> <strong>Dr. Madhava Reddy's Center for Spine and
+                    Orthopedic
+                    Care is
+                    committed
+                    to delivering exceptional care and treatment through a comprehensive range of
+                    spine
+                    and
+                    orthopedic services. Our clinic focuses on enhancing patients' quality of life
+                    by
+                    addressing a
+                    wide spectrum of conditions, from spinal disorders to joint and musculoskeletal
+                    issues, catering
+                    to individuals of all ages. </strong></h5>
 
 
+              </div>
+            </div>
+            <div class="col-md-2">
+              <img src="assets/img/spain/s1.png" alt="" class="spineeimg1">
+
+            </div>
+          </div>
+
+        </div>
       </div>
+
+
     </section>
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
@@ -1322,6 +1348,10 @@
 
     // jQuery is required for Bootstrap's JavaScript plugins
   </script>
+</body>
+
+</html>jQuery is required for Bootstrap's JavaScript plugins
+</script>
 </body>
 
 </html>

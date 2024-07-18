@@ -2382,9 +2382,9 @@ border-radius: 10px;
 .main_heading_color {
   /* background: linear-gradient(to right, #ff7e5f, #feb47b); */
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  /* -webkit-text-fill-color: transparent; */
 
-  background-image: linear-gradient(
+  /* background-image: linear-gradient(
     to right,
     #da6e2e,
     #e75b62,
@@ -2396,8 +2396,12 @@ border-radius: 10px;
     #e884a6,
     #f89088,
     #f2a770
-  );
-  font-weight: 1000;
+  ); */
+  color: #1c5d79;
+  font-weight: 900;
+  font-size: 21px;
+  text-decoration: underline;
+  font-family: "Mulish";
 }
 
 .tetniomial_section_bg {
@@ -2544,4 +2548,38 @@ border-radius: 10px;
   border-top: 1px solid #19516a;
   height: 5px;
   background-color: #f8f8f8;
+}
+/* section.oneStop {
+  position: absolute;
+  top: 444px;
+  z-index: 9;
+  background: #19516a;
+  border-radius: 227px;
+  display: flex;
+  justify-content: center !important;
+  height: 234px;
+  padding: 0px;
+} */
+img.spineeimg {
+  width: 105%;
+  opacity: 0.6;
+}
+img.spineeimg1 {
+  width: 58%;
+  opacity: 0.3;
+}
+.stopSection {
+  display: flex;
+  justify-content: center;
+  /* background-image: radial-gradient(circle, #19516a, #22617e, #2b7292, #3483a7, #3d95bc, #3f9ac2, #409ec8, #42a3ce, #3c9bc6, #3794be, #318cb6, #2b85ae); */
+  box-shadow: rgb(25 81 106) 0px 2px 4px 0px, rgb(25 81 106) 0px 2px 16px 0px;
+  border-radius: 87px;
+  padding: 60px 0px 10px 50px;
+  background: #19516a1c;
+}
+h5.px-5.p-4.madhav {
+  font-size: 18px;
+  font-weight: 100;
+  font-family: math;
+  line-height: 29px;
 }
