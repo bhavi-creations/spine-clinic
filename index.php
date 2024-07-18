@@ -87,16 +87,16 @@
 
     <div class="carousel-inner" id="bb">
       <div class="carousel-item active">
-      <img src="assets/img/sliders/biotechnology-scientist-ppe-suit-researching-dna-laboratory-using-microscope-team-examining-vir.jpg" class="d-block img-fluid" alt="..." />
-       
+        <img src="assets/img/sliders/biotechnology-scientist-ppe-suit-researching-dna-laboratory-using-microscope-team-examining-vir.jpg" class="d-block img-fluid" alt="..." />
+
       </div>
       <div class="carousel-item">
         <img src="assets/img/sliders/tubler system 1.jpg" class="d-block img-fluid" alt="..." />
       </div>
       <div class="carousel-item">
-      <img src="assets/img/sliders/endroscopic.jpg" class="d-block img-fluid" alt="..." />
-      
-    </div>
+        <img src="assets/img/sliders/endroscopic.jpg" class="d-block img-fluid" alt="..." />
+
+      </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
       <span class="carousel-control-prev-icon  carsoul_item_arrow" aria-hidden="true">
@@ -116,11 +116,15 @@
     <section>
       <div class="section-title text-center">
         <h1 class="main_heading_color"> Your One-Stop Solution for Comprehensive Spine and Orthopedic Care </h1>
+<<<<<<< Updated upstream
         <h5 class="   px-5 p-4"> <strong>Dr. Madhava Reddy's Center for Spine and Orthopedic Care is committed
             to delivering exceptional care and treatment through a comprehensive range of spine and
             orthopedic services. Our clinic focuses on enhancing patients' quality of life by addressing a
             wide spectrum of conditions, from spinal disorders to joint and musculoskeletal issues, catering
             to individuals of all ages. </strong></h5>
+=======
+        <h5 class="   px-5 p-4"> <strong>Dr. Madhava Reddy's Center for Spine and Orthopedic Care is committed to delivering exceptional care and treatment through a comprehensive range of spine and orthopedic services. Our clinic focuses on enhancing patients' quality of life by addressing a wide spectrum of conditions, from spinal disorders to joint and musculoskeletal issues, catering to individuals of all ages. </strong></h5>
+>>>>>>> Stashed changes
       </div>
     </section>
     <!-- ======= About Us Section ======= -->
@@ -1037,6 +1041,106 @@
 
 
     </section>
+
+
+    <section id="gallery" class="appointment section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Gallery</h2>
+        </div>
+
+        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/tripura/angry.png" class="img-fluid">
+              </div>
+            </div>
+
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/tripura/anxiety.png" class="img-fluid">
+              </div>
+            </div>
+
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/tripura/dipression.png" class="img-fluid">
+              </div>
+            </div>
+
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/tripura/Excessive Mischievousness children.png" class="img-fluid">
+              </div>
+            </div>
+
+
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/tripura/sleep_problem.png" class="img-fluid" ">
+              </div>
+            </div>
+            
+
+       
+
+
+              <div class=" swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/tripura/Losing Concentration Easily.png" class="img-fluid">
+                </div>
+              </div>
+
+
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/tripura/nerve-weekness.png" class="img-fluid">
+                </div>
+              </div>
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/tripura/migren.png" class="img-fluid">
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/tripura/stress.png" class="img-fluid">
+                </div>
+              </div>
+
+              <div class=" swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/tripura/person-feeling-anxiety-induced-by-book-studying_23-2150982003.png" class="img-fluid">
+                </div>
+              </div>
+
+
+              <div class="swiper-slide">
+                <div class="testimonial-item">
+                  <img src="assets/img/tripura/fear.png" class="img-fluid">
+                </div>
+              </div>
+
+            </div>
+            <br>
+            <br>
+            <div class="swiper-pagination mt-5"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
 
     <!-- End Contact Section -->
   </main>
