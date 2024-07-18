@@ -316,7 +316,7 @@ $result = $conn->query($sql);
               <span class="phone_email">
                 <strong><i class="fa-solid fa-envelope colr_purple"></i>
                   &nbsp;</strong></span>
-              <span class="mini_text"> @gmail.com</span> <br />
+              <span class="mini_text"> spine360clinic@gmail.com</span> <br />
             </p>
 
             <p class="mt-4 mini_text last_padding_text">
