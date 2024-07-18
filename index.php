@@ -188,7 +188,7 @@
           </div>
 
           <div class="col-md-6" data-aos="fade-right" class="">
-            <img src="assets/img/spain/madhav (4).webp" class="img-fluid img_padding" alt="" />
+            <img src="assets/img/gallery/madhava reddy.png" class="img-fluid img_padding" alt="" />
           </div>
         </div>
       </div>
