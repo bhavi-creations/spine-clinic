@@ -87,14 +87,16 @@
 
     <div class="carousel-inner" id="bb">
       <div class="carousel-item active">
-        <img src="assets/img/spain/tittle (1).png" class="d-block img-fluid" alt="..." />
+      <img src="assets/img/sliders/biotechnology-scientist-ppe-suit-researching-dna-laboratory-using-microscope-team-examining-vir.jpg" class="d-block img-fluid" alt="..." />
+       
       </div>
       <div class="carousel-item">
-        <img src="assets/img/spain/tittle (2).png" class="d-block img-fluid" alt="..." />
+        <img src="assets/img/sliders/tubler system 1.jpg" class="d-block img-fluid" alt="..." />
       </div>
       <div class="carousel-item">
-        <img src="assets/img/spain/tittle (3).png" class="d-block img-fluid" alt="..." />
-      </div>
+      <img src="assets/img/sliders/endroscopic.jpg" class="d-block img-fluid" alt="..." />
+      
+    </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
       <span class="carousel-control-prev-icon  carsoul_item_arrow" aria-hidden="true">
