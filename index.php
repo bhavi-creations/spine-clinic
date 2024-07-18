@@ -303,17 +303,115 @@
 
 
 
+        </div>
+         
+
+        <div class="section-title text-center seven">
+          <h1 class="mt-5">Open Spine Surgery </h1>
+          
+        </div>
+
+          <div class="row">
+
+            <div class="col-md-4 my-3">
+              <div class="card">
+                <div class="card-body opener">
+                  <div class="row">
+                    
+                   
+                      <h5 class="card-title openSpine">Multilevel regenerative spine</h5>
+                       
+                   
+                  </div>
                 </div>
-            </div>
-        </section>
+              </div>
+            </div> 
+        
+
+            <div class="col-md-4 my-3">
+              <div class="card">
+                <div class="card-body opener">
+                  <div class="row">
+                    
+                   
+                      <h5 class="card-title openSpine">Complex spinal pathologies</h5>
+                       
+                   
+                  </div>
+                </div>
+              </div>
+            </div> 
+        
+            <div class="col-md-4 my-3">
+              <div class="card">
+                <div class="card-body opener">
+                  <div class="row">
+                    
+                   
+                      <h5 class="card-title openSpine">Koch's spine / infections</h5>
+                       
+                   
+                  </div>
+                </div>
+              </div>
+            </div> 
+        
+            <div class="col-md-4 my-3">
+              <div class="card">
+                <div class="card-body opener">
+                  <div class="row">
+                    
+                   
+                      <h5 class="card-title openSpine">Cervical myelopathies</h5>
+                       
+                   
+                  </div>
+                </div>
+              </div>
+            </div> 
+        
+            <div class="col-md-4 my-3">
+              <div class="card">
+                <div class="card-body opener">
+                  <div class="row">
+                    
+                   
+                      <h5 class="card-title openSpine">Spinal tumors</h5>
+                       
+                   
+                  </div>
+                </div>
+              </div>
+            </div> 
+        
+            <div class="col-md-4 my-3">
+              <div class="card">
+                <div class="card-body opener">
+                  <div class="row">
+                    
+                   
+                      <h5 class="card-title openSpine">Deformity corrections</h5>
+                       
+                   
+                  </div>
+                </div>
+              </div>
+            </div> 
+        
+          </div>
+        
+      </section>
+
+      </div>
+    </section>
 
         <section id="facilities" class="departments">
             <div class="container" data-aos="fade-up">
 
-                <div class="section-title text-center seven">
-                    <h1>Our Services</h1>
-                    <p class="service_text"></p>
-                </div>
+        <div class="section-title text-center seven">
+          <h1>Specializes in the treatment of</h1>
+          <p class="service_text"></p>
+        </div>
 
                 <div class="container  sevice_bg_color">
                     <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -459,10 +557,8 @@
                                     <img src="assets/img/spain/Spondyloslithesis.webp" alt="CT Scanner Image"
                                         class="img-fluid service_img_radius">
 
-                                    <h3>About the Spondyloslithesis</h3>
-                                    <p class=" ">Our clinic offers specialized care for spondylolisthesis, a condition
-                                        where a vertebra slips out of place. Dr. MADHAVA REDDY’s expertise ensures
-                                        effective management and correction of this condition.
+                  <h3>Lumbar Disc Prolapse</h3>
+                  <p class=" ">Dr. Madhava Reddy specializes in advanced treatments for lumbar disc prolapse, focusing on personalized care and effective management strategies tailored to each patient's needs. His expertise encompasses both conservative and surgical interventions aimed at relieving symptoms and restoring spinal health.
 
 
                                     </p>
@@ -761,19 +857,19 @@
         </section>
 
 
-        <section>
-            <div class="container">
-                <div class="row">
-                    <div class="col-6 d-none d-md-block seven">
-                        <h1 class="blogs_home mb-5">Our Latest Blogs</h1>
-                    </div>
-                    <div class="col-6 d-none d-md-block">
-                        <a href="blogs.php">
-                            <p class="view_more_btn mb-5 d-flex flex-row justify-content-end">
-                                View More<i class="fa-solid fa-arrow-right"></i>
-                            </p>
-                        </a>
-                    </div>
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="col-12 d-none d-md-block seven">
+            <h1 class="blogs_home mb-5">Our Latest Blogs</h1>
+          </div>
+          <div class="col-12 d-none d-md-block">
+            <a href="blogs.php">
+              <p class="view_more_btn mb-5 d-flex flex-row justify-content-end">
+                View More<i class="fa-solid fa-arrow-right"></i>
+              </p>
+            </a>
+          </div>
 
                     <h3 class="blogs_home text-center mb-5 d-md-none">
                         Our Latest Blogs
@@ -785,25 +881,24 @@
           $sql = "SELECT * FROM blog ORDER BY time DESC LIMIT 3";
           $result = $conn->query($sql); ?>
 
-                    <?php while ($row = $result->fetch_assoc()) : ?>
-                    <div class="col-12 col-md-4 px-5 py-2">
-                        <div class="card h-100">
-                            <video class="custom-video" autoplay muted controls style="width: 100%; height: auto">
-                                <source src="admin/public/uploads/videos/<?php echo $row['video']; ?>"
-                                    type="video/mp4" />
-                                Your browser does not support the video tag.
-                            </video>
-                            <div class="card-body">
-                                <h5 class="card-title"><?php echo $row['title']; ?></h5>
-                            </div>
+          <?php while ($row = $result->fetch_assoc()) : ?>
+            <div class="col-12 col-md-4 px-5 py-2">
+              <div class="card h-100 blogcard">
+                <video class="custom-video" autoplay muted controls style="width: 100%; height: auto">
+                  <source src="admin/public/uploads/videos/<?php echo $row['video']; ?>" type="video/mp4" />
+                  Your browser does not support the video tag.
+                </video>
+                <div class="card-body blogbody">
+                  <h5 class="card-title"><?php echo $row['title']; ?></h5>
+                </div>
 
-                            <div class="card-footer">
-                                <small class="text-muted">Posted On:
-                                    <?php echo date("F j, Y, g:i a", strtotime($row['time'])); ?></small>
-                            </div>
-                        </div>
-                    </div>
-                    <?php endwhile; ?>
+                <div class="card-footer blogfooter">
+                  <small class="text-muted">Posted On:
+                    <?php echo date("F j, Y, g:i a", strtotime($row['time'])); ?></small>
+                </div>
+              </div>
+            </div>
+          <?php endwhile; ?>
 
                     <div class="d-flex flex-row justify-content-center mt-4">
                         <a href="blogs.php">
