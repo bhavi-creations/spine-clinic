@@ -663,10 +663,6 @@ section {
   overflow: hidden;
 }
 
-.section-bg {
-  background-color: rgba(238, 238, 238, 0.686);
-}
-
 .section-title {
   text-align: center;
   padding-bottom: 30px;
@@ -1760,21 +1756,7 @@ section {
 }
 
 #footer .footer-top {
-  background-image: linear-gradient(
-    to left top,
-    #82dbff,
-    #92dfff,
-    #a1e3fe,
-    #afe7fe,
-    #bcebfe,
-    #c8edff,
-    #d3f0ff,
-    #def2ff,
-    #e9f4ff,
-    #f3f7ff,
-    #fafbff,
-    #ffffff
-  );
+  background: #19516a;
 }
 
 #footer .footer-top .footer-info {
@@ -1866,7 +1848,8 @@ section {
 .mini_text {
   font-family: "Montserrat";
 
-  font-weight: 700;
+  font-weight: 500;
+  color: white;
 }
 
 .phone_email {
@@ -2078,7 +2061,7 @@ section {
   line-height: 24px;
   letter-spacing: 0.20000000298023224px;
   text-align: left;
-  color: #737373 !important;
+  color: white !important;
 }
 
 .colr_purple {
@@ -2585,13 +2568,46 @@ h5.px-5.p-4.madhav {
   line-height: 29px;
 }
 .why_spine {
-  font-family: "Mukta Vaani", sans-serif;
-
-  font-weight: 800;
+  font-family: math;
+  font-weight: 600;
   /* font-size: 25px; */
-  color: #f17e2d;
+  color: #19516a;
+  text-decoration: underline;
+  word-spacing: 3px;
+  margin-left: 30px;
 }
 
-.footer_logo_img{
-  height: 350px
+.footer_logo_img {
+  width: 51%;
+  padding: 39px 0px 7px 0px;
+}
+.footer-area-bottom.theme-bg {
+  background: #da6e2e;
+}
+.galImg {
+  border: 7px solid #19516a;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+}
+.fa-check:before {
+  content: "\f00c";
+  color: #f17e2d;
+  margin-right: 15px;
+}
+p.solution {
+  color: black;
+  font-size: 17px;
+  font-family: "Mulish";
+  font-weight: 500;
+  margin-left: 30px;
+}
+img.img-fluid.img_padding {
+  /* width: 69%; */
+}
+.spine360 {
+  display: flex;
+  align-items: center;
+}
+h4.why_spine.groupAge {
+  margin-top: 32px;
 }

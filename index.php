@@ -1004,45 +1004,53 @@
         <div class="section-title text-center seven">
           <h1>Why Spine-360 is best ?</h1>
         </div>
-        <div class="row">
+        <div class="row spine360">
 
 
-          <div class="col-md-6" data-aos="fade-right" class="">
+          <div class="col-md-5" data-aos="fade-right" class="">
             <img src="assets/img/gallery/madhav (1).jpg" class="img-fluid img_padding" alt="" />
           </div>
 
 
-          <div class="col-md-6 content_padding" data-aos="fade-left">
+          <div class="col-md-7 spineCol" data-aos="fade-left">
 
             <h4 class="why_spine">
               1) 360° comprehensive spine care
             </h4>
-            <p class=" "> <i class="fa-solid fa-check"></i> A one stop solution for spine treatment
+            <p class="solution "> <i class="fa-solid fa-check"></i> A one stop solution for spine treatment
             </p>
-            <p class=" ">
+            <!-- <p class="solution ">
               <i class="fa-solid fa-check"></i> A one stop solution for spine treatment
-            </p>
+            </p> -->
 
-            <h4 class="why_spine">
+            <h4 class="why_spine groupAge">
               2) All Age Groups
             </h4>
-            <p class=" "> <i class="fa-solid fa-check"></i>  Covers all age groups with spine issues, providing expert opinions and guidance to get you 'Back' to life.
+            <p class="solution "> <i class="fa-solid fa-check"></i> Covers all age groups with spine issues,
+              providing expert opinions and guidance to get you 'Back' to life.
             </p>
 
-            <h4 class="why_spine">
+            <h4 class="why_spine  groupAge">
               3) Patient Friendly
             </h4>
-            <p class=" "> <i class="fa-solid fa-check"></i>Our clinic is associated with a multi-range, multi-level equipped hospital to ensure patient care at all levels according to patient requirements.
+            <p class=" solution"> <i class="fa-solid fa-check"></i>Our clinic is associated with a
+              multi-range,
+              multi-level equipped hospital to ensure patient care at all levels according to patient
+              requirements.
             </p>
-            <h4 class="why_spine">
+            <h4 class="why_spine groupAge">
               4) Safe Hands
             </h4>
-            <p class=" "> <i class="fa-solid fa-check"></i>Last but not least, you are in highly trained and expert hands.
+            <p class=" solution"> <i class="fa-solid fa-check"></i>Last but not least, you are in highly
+              trained and
+              expert hands.
             </p>
-            <h4 class="why_spine">
-              5) Orthopedic Spine Care 
+            <h4 class="why_spine groupAge">
+              5) Orthopedic Spine Care
             </h4>
-            <p class=" "> <i class="fa-solid fa-check"></i>Combined evaluation of orthopedic and spine care available.
+            <p class="solution "> <i class="fa-solid fa-check"></i>Combined evaluation of orthopedic and
+              spine care
+              available.
             </p>
             <!-- <div class="d-flex flex-row justify-content-end">
               <a href="#contact">
@@ -1137,40 +1145,40 @@
     </section>
 
 
+    <div class="section-title seven pb-0">
+      <h1>Gallery</h1>
+    </div>
     <section id="gallery" class="appointment section-bg">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>Gallery</h2>
-        </div>
 
-        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+        <div class="testimonials-slider swiper mt-0" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper">
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
               </div>
             </div>
 
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (2).jpg" class="img-fluid">
+                <img src="assets/img/gallery/gellary (2).jpg" class="img-fluid galImg">
               </div>
             </div>
 
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (3).jpg" class="img-fluid">
+                <img src="assets/img/gallery/gellary (3).jpg" class="img-fluid galImg">
               </div>
             </div>
 
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (4).jpg" class="img-fluid">
+                <img src="assets/img/gallery/gellary (4).jpg" class="img-fluid galImg">
               </div>
             </div>
 
@@ -1178,18 +1186,18 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (5).png" class="img-fluid" ">
+                <img src="assets/img/gallery/gellary (5).png" class="img-fluid galImg">
               </div>
             </div>
 
-            </div>
-            <br>
-            <br>
-            <div class=" swiper-pagination mt-5">
-              </div>
-            </div>
+          </div>
+          <br>
+          <br>
+          <div class=" swiper-pagination mt-5">
           </div>
         </div>
+      </div>
+      </div>
     </section>
 
 
@@ -1250,16 +1258,16 @@
               <p class="mini_text last_text" style="color: #737373">
                 ©2024 Spain 360 . All Rights Reserved. Designed & Developed
                 by
-                <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none; color: #737373">Bhavi Creations</a>
+                <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none; color: white; font-weight:800">Bhavi Creations</a>
               </p>
             </div>
           </div>
           <div class="col-xl-4 col-lg-3 col-md-12 col-12">
             <div class="footer-widget__copyright-info info-direction">
               <p class="mini_text last_text">
-                <a href="terms.html" style="text-decoration: none; color: #737373">Terms & conditions
+                <a href="terms.html" style="text-decoration: none; color: white">Terms & conditions
                 </a>
-                <a href="privacy.html" style="text-decoration: none; color: #737373">
+                <a href="privacy.html" style="text-decoration: none; color: white">
                   Privacy & policy</a>
               </p>
             </div>
@@ -1378,7 +1386,7 @@
   </script>
 </body>
 
-</html> 
+</html>
 </script>
 </body>
 
