@@ -5,7 +5,7 @@
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-  <title>Spine 360</title>
+  <title>Spine 360°</title>
   <meta content="" name="description" />
   <meta content="" name="keywords" />
 
@@ -167,28 +167,42 @@
           <div class="col-md-6 content_padding" data-aos="fade-left">
 
             <h2 class="welcome_text_oncology">
-              Dr.MADHAVA REDDY's <br> Spine 360
+              Dr.MADHAVA REDDY's <br> Spine 360°
             </h2>
-            <p class="poetsen_font">
-              is dedicated to providing comprehensive spine care under my expert guidance. With advanced
-              qualifications and a wealth of experience, I am a highly respected Consultant Spine Surgeon,
-              holding both MS Ortho and DNB Ortho degrees. <br /><br />
-              I understand the complexities of spine health and am committed to delivering personalized
-              care tailored to each patient's needs. I offer state-of-the-art diagnostic and treatment
-              facilities, ensuring that you receive the best possible care for your spine conditions.
+            <p class=" ">
+              Consultant orthopedic spine surgeon, located in Kakinada, promises exclusive and expert services in SPINE SURGERY with utmost precision, empathy, and care. <br><br> Dr. Madhava Reddy holds both MS Ortho and DNB Ortho degrees, with advanced minimally invasive fellowships in spine surgery in Mumbai and South Korea.
             </p>
 
-            <div class="d-flex flex-row justify-content-end">
-              <a href="#contact">
-                <p class="get_in_touch">
-                  Get In Touch <i class="fa-solid fa-arrow-right"></i>
-                </p>
-              </a>
-            </div>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> MBBS from the prestigious Rangaraya Medical College in Kakinada, Andhra Pradesh - 2016</p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> MS Ortho from Guntur Government Medical College, Andhra Pradesh - 2021</p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> DNB Orthopedics from the National Board of Examination (NBE) in New Delhi in the same year - 2021 </p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Fellowship in Minimally Invasive Spine Surgeries (MIS) at prestigious NANAVATHI MAX SUPER SPECIALITY Hospital, Mumbai, under the able guidance of Dr. MIHIR BAPAT and his Team. </p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Endoscopic Spine Surgery training at the famous WOORIDUL Hospital, SOUTH KOREA, with Dr. SANG-Ho-Lee.</p>
+     
+
+
+
           </div>
 
           <div class="col-md-6" data-aos="fade-right" class="">
             <img src="assets/img/gallery/madhava reddy.png" class="img-fluid img_padding" alt="" />
+          </div>
+
+
+          <div class="col-12 content_padding" data-aos="fade-left">
+
+            <h2 class=""> Member of reputed associations. </h2>
+                         
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Association of Spine Surgeons of India (ASSI) and participant in the annual conference (ASSICON). </p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i>  Member of the Endoscopic Spine Foundation of India (ESFI).  </p>
+
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Indian Orthopaedic Association (IOA).</p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i>Member of the Orthopaedic Surgery Society of Andhra Pradesh (OSSAP). </p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Bombay Spine Society (BSS).</p>
+
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Participant in the Western India Regional Orthopaedic Conference (WIROC).</p>
+
+
           </div>
         </div>
       </div>
@@ -585,7 +599,7 @@
                   <p class=" ">
 
                     Fractures are a common but serious spine condition that can significantly impact
-                    your quality of life. At Dr. MADHAVA REDDY's Spine 360 Clinic, we specialize in
+                    your quality of life. At Dr. MADHAVA REDDY's Spine 360° Clinic, we specialize in
                     the diagnosis and treatment of spinal fractures. Dr. MADHAVA REDDY employs
                     advanced surgical and non-surgical techniques to stabilize the spine, alleviate
                     pain, and promote healing. Whether your fracture is due to an injury or a
@@ -598,7 +612,7 @@
                   <h3>About the Trauma</h3>
                   <p class=" ">
                     Trauma to the spine requires immediate and expert medical attention to prevent
-                    long-term damage and complications. At Dr. MADHAVA REDDY's Spine 360 Clinic, we
+                    long-term damage and complications. At Dr. MADHAVA REDDY's Spine 360° Clinic, we
                     provide comprehensive care for spinal trauma resulting from accidents, falls, or
                     other injuries. Dr. MADHAVA REDDY's extensive experience in managing spinal
                     trauma ensures that patients receive prompt and effective treatment, tailored to
@@ -1002,7 +1016,7 @@
 
       <div class="container" data-aos="fade-up">
         <div class="section-title text-center seven">
-          <h1>Why Spine-360 is best ?</h1>
+          <h1>Why Spine-360° is best ?</h1>
         </div>
         <div class="row spine360">
 
@@ -1026,8 +1040,7 @@
             <h4 class="why_spine groupAge">
               2) All Age Groups
             </h4>
-            <p class="solution "> <i class="fa-solid fa-check"></i> Covers all age groups with spine issues,
-              providing expert opinions and guidance to get you 'Back' to life.
+            <p class=" "> <i class="fa-solid fa-check"></i> Covers all age groups with spine issues, providing expert opinions and guidance to get you 'Back' to life.
             </p>
 
             <h4 class="why_spine  groupAge">
@@ -1045,7 +1058,7 @@
               trained and
               expert hands.
             </p>
-            <h4 class="why_spine groupAge">
+            <h4 class="why_spine">
               5) Orthopedic Spine Care
             </h4>
             <p class="solution "> <i class="fa-solid fa-check"></i>Combined evaluation of orthopedic and
@@ -1256,7 +1269,7 @@
           <div class="col-xl-8 col-lg-9 col-md-12 col-12">
             <div class="footer-widget__copyright">
               <p class="mini_text last_text" style="color: #737373">
-                ©2024 Spain 360 . All Rights Reserved. Designed & Developed
+                ©2024 Spain 360° . All Rights Reserved. Designed & Developed
                 by
                 <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none; color: white; font-weight:800">Bhavi Creations</a>
               </p>
