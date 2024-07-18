@@ -2584,3 +2584,14 @@ h5.px-5.p-4.madhav {
   font-family: math;
   line-height: 29px;
 }
+.why_spine {
+  font-family: "Mukta Vaani", sans-serif;
+
+  font-weight: 800;
+  /* font-size: 25px; */
+  color: #f17e2d;
+}
+
+.footer_logo_img{
+  height: 350px
+}
