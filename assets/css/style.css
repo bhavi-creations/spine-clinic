@@ -208,15 +208,15 @@ h6 {
   color: #555555;
 }
 
-#header .logo img {
+/* #header .logo img {
   width: 130px;
   height: 130px;
-}
+} */
 
 /**
 * Appointment Button
 */
-.appointment-btn {
+/* .appointment-btn {
   width: Fixed (151px)px;
   height: Hug (45px)px;
   top: 68px;
@@ -237,7 +237,7 @@ h6 {
   background: #f3a871;
   color: #fff;
   text-decoration: none;
-}
+} */
 
 @media (max-width: 768px) {
   .appointment-btn {
@@ -1147,9 +1147,9 @@ section {
 /*--------------------------------------------------------------
 # Departments
 --------------------------------------------------------------*/
-.departments .nav-tabs {
+/* .departments .nav-tabs {
   border: 0;
-}
+} */
 @media (min-width:768px) {
 .departments .nav-link {
   border: 0;
@@ -1196,7 +1196,7 @@ section {
 .departments .nav-link:hover h4 {
   color: #01539D
 }
-
+/* 
 .departments .nav-link.active {
   background: rgba(189, 255, 255, 0.695);
   border-color: #ff842d;
@@ -1205,7 +1205,7 @@ section {
 .departments .nav-link.active h4 {
   color: #0598d2;
 
-}
+} */
 
 .departments .tab-pane.active {
   animation: slide-down 0.5s ease-out;
@@ -1253,7 +1253,7 @@ section {
   color: #777777;
 }
 
-.departments .tab-pane p:last-child {
+/* .departments .tab-pane p:last-child {
   font-family: "Mulish" !important;
   font-size: 16px;
   font-weight: 600;
@@ -1261,7 +1261,7 @@ section {
   letter-spacing: -0.02em;
   text-align: left;
   color: #9A9A9A;
-  }
+  } */
 
 @keyframes slide-down {
   0% {
@@ -2080,13 +2080,13 @@ section {
 
 }
 
-.poetsen_font {
+/* .poetsen_font {
   font-family: "Inter", sans-serif;
   font-weight: 600;
   font-size: 16px;
   color: #5e5c5c;
 
-}
+} */
 
 .get_in_touch {
 
@@ -2117,9 +2117,9 @@ section {
 
 
 
-.main_images {
+/* .main_images {
   background-image: linear-gradient(to left top, #ffe8d8, #f4ebd5, #e5efd8, #d7f1e1, #cdf2ee, #d0f2f6, #d6f2fc, #def2ff, #e9f4ff, #f3f7ff, #fafbff, #ffffff);
-}
+} */
 
 .last_text {
   font-family: "Montserrat";
@@ -2176,10 +2176,10 @@ section {
 }
 
 
-.tetniomial_section_bg {
+/* .tetniomial_section_bg {
   background-image: linear-gradient(to left top, #ffe8d8, #f4ebd5, #e5efd8, #d7f1e1, #cdf2ee, #d0f2f6, #d6f2fc, #def2ff, #e9f4ff, #f3f7ff, #fafbff, #ffffff);
   border-radius: 10px;
-}
+} */
 
 
 .name_testmonial {
@@ -2239,11 +2239,11 @@ section {
 }
 }
 
-.sevice_bg_color{
+/* .sevice_bg_color{
 
   background-image: linear-gradient(to bottom, #ffe8d8, #fde8d9, #fbe9da, #fae9dc, #f8e9dd, #faeae2, #fbebe6, #fbedeb, #fcf1f3, #fcf6f9, #fdfbfd, #ffffff);
 border-radius: 10px;
-}
+} */
 
 .contaner_inner{
   margin-top: -150px;
@@ -2447,4 +2447,87 @@ margin-top: 20px;
 
   background-image: linear-gradient(to right, #da6e2e, #e75b62, #d95b93, #b26bb9, #787ccb,  #8987ce, #c383c1, #e884a6, #f89088, #f2a770);
   font-weight: 1000;
+}
+
+
+
+.tetniomial_section_bg {
+  background-image: linear-gradient(to left bottom, #19516a, #19536d, #1a556f, #1a5772, #1b5975, #1e6584, #2b7596, #2c7ca1db, #2d8ab3d1, #2b92c0cc, #2a94c3bd, #2ea1d5a3);
+  border-radius: 10px;
+}
+
+.main_images {
+  background: #19516a;
+}
+
+#header .logo img {
+  width: 60%;
+  /* height: 130px; */
+}
+
+.navbar a, .navbar a:focus {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Mulish", sans-serif;
+  font-size: 17px;
+  color: white;
+  white-space: nowrap;
+  transition: 0.3s;
+  font-weight: 500;
+}
+
+.appointment-btn {
+  padding: 3px 19px 3px 19px;
+  gap: 10px;
+  border-radius: 22px;
+  opacity: 0px;
+  color: white;
+  background: #19516a;
+  font-weight: 500;
+  margin-left: 10px;
+  width: 31%;
+  text-align: center;
+  border: 3px solid;
+}
+
+.appointment-btn:hover {
+  background: white;
+  color: #19516a;
+  text-decoration: none;
+  border: 1px solid #19516a;
+}
+
+.sevice_bg_color {
+  /* background-image: linear-gradient(to bottom, #ffe8d8, #fde8d9, #fbe9da, #fae9dc, #f8e9dd, #faeae2, #fbebe6, #fbedeb, #fcf1f3, #fcf6f9, #fdfbfd, #ffffff); */
+  border-radius: 10px;
+  background: linear-gradient(to left bottom, #19516a, #19536d, #1a556f, #1a5772, #1b5975, #1e6584, #2b7596, #2c7ca1db, #2d8ab3d1, #2b92c0cc, #2a94c3bd, #2ea1d5a3);
+}
+
+.departments .nav-tabs {
+  border: 0;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.departments .nav-link.active {
+  background: rgb(26 84 110);
+  border-color: #ffffff;
+}
+
+.departments .nav-link.active h4 {
+  color: white;
+}.departments .tab-pane p:last-child {
+  font-family: "Mulish" !important;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20.08px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: white;
+}
+.poetsen_font {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  color: white;
 }
