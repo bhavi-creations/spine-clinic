@@ -128,7 +128,12 @@
     </section>
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
+
+       
       <div class="container" data-aos="fade-up">
+      <div class="section-title text-center seven">
+      <h1>About</h1>
+      </div>
         <div class="row">
           <div class="col-md-6 content_padding" data-aos="fade-left">
 
@@ -1054,28 +1059,28 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/tripura/angry.png" class="img-fluid">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid">
               </div>
             </div>
 
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/tripura/anxiety.png" class="img-fluid">
+                <img src="assets/img/gallery/gellary (2).jpg" class="img-fluid">
               </div>
             </div>
 
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/tripura/dipression.png" class="img-fluid">
+                <img src="assets/img/gallery/gellary (3).jpg" class="img-fluid">
               </div>
             </div>
 
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/tripura/Excessive Mischievousness children.png" class="img-fluid">
+                <img src="assets/img/gallery/gellary (4).jpg" class="img-fluid">
               </div>
             </div>
 
@@ -1083,51 +1088,9 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/tripura/sleep_problem.png" class="img-fluid" ">
+                <img src="assets/img/gallery/gellary (5).png" class="img-fluid" ">
               </div>
             </div>
-            
-
-       
-
-
-              <div class=" swiper-slide">
-                <div class="testimonial-item">
-                  <img src="assets/img/tripura/Losing Concentration Easily.png" class="img-fluid">
-                </div>
-              </div>
-
-
-
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="assets/img/tripura/nerve-weekness.png" class="img-fluid">
-                </div>
-              </div>
-
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="assets/img/tripura/migren.png" class="img-fluid">
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="assets/img/tripura/stress.png" class="img-fluid">
-                </div>
-              </div>
-
-              <div class=" swiper-slide">
-                <div class="testimonial-item">
-                  <img src="assets/img/tripura/person-feeling-anxiety-induced-by-book-studying_23-2150982003.png" class="img-fluid">
-                </div>
-              </div>
-
-
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <img src="assets/img/tripura/fear.png" class="img-fluid">
-                </div>
-              </div>
 
             </div>
             <br>
