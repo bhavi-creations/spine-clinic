@@ -116,15 +116,14 @@
     <section>
       <div class="section-title text-center">
         <h1 class="main_heading_color"> Your One-Stop Solution for Comprehensive Spine and Orthopedic Care </h1>
-<<<<<<< Updated upstream
+
         <h5 class="   px-5 p-4"> <strong>Dr. Madhava Reddy's Center for Spine and Orthopedic Care is committed
             to delivering exceptional care and treatment through a comprehensive range of spine and
             orthopedic services. Our clinic focuses on enhancing patients' quality of life by addressing a
             wide spectrum of conditions, from spinal disorders to joint and musculoskeletal issues, catering
             to individuals of all ages. </strong></h5>
-=======
-        <h5 class="   px-5 p-4"> <strong>Dr. Madhava Reddy's Center for Spine and Orthopedic Care is committed to delivering exceptional care and treatment through a comprehensive range of spine and orthopedic services. Our clinic focuses on enhancing patients' quality of life by addressing a wide spectrum of conditions, from spinal disorders to joint and musculoskeletal issues, catering to individuals of all ages. </strong></h5>
->>>>>>> Stashed changes
+
+
       </div>
     </section>
     <!-- ======= About Us Section ======= -->
