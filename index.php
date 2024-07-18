@@ -169,26 +169,38 @@
             <h2 class="welcome_text_oncology">
               Dr.MADHAVA REDDY's <br> Spine 360
             </h2>
-            <p class="poetsen_font">
-              is dedicated to providing comprehensive spine care under my expert guidance. With advanced
-              qualifications and a wealth of experience, I am a highly respected Consultant Spine Surgeon,
-              holding both MS Ortho and DNB Ortho degrees. <br /><br />
-              I understand the complexities of spine health and am committed to delivering personalized
-              care tailored to each patient's needs. I offer state-of-the-art diagnostic and treatment
-              facilities, ensuring that you receive the best possible care for your spine conditions.
+            <p class=" ">
+              Consultant orthopedic spine surgeon, located in Kakinada, promises exclusive and expert services in SPINE SURGERY with utmost precision, empathy, and care. <br><br> Dr. Madhava Reddy holds both MS Ortho and DNB Ortho degrees, with advanced minimally invasive fellowships in spine surgery in Mumbai and South Korea.
             </p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> MBBS from the prestigious Rangaraya Medical College in Kakinada, Andhra Pradesh - 2016</p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> MS Ortho from Guntur Government Medical College, Andhra Pradesh - 2021</p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> DNB Orthopedics from the National Board of Examination (NBE) in New Delhi in the same year - 2021 </p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Fellowship in Minimally Invasive Spine Surgeries (MIS) at prestigious NANAVATHI MAX SUPER SPECIALITY Hospital, Mumbai, under the able guidance of Dr. MIHIR BAPAT and his Team. </p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Endoscopic Spine Surgery training at the famous WOORIDUL Hospital, SOUTH KOREA, with Dr. SANG-Ho-Lee.</p>
 
-            <div class="d-flex flex-row justify-content-end">
-              <a href="#contact">
-                <p class="get_in_touch">
-                  Get In Touch <i class="fa-solid fa-arrow-right"></i>
-                </p>
-              </a>
-            </div>
+
           </div>
 
           <div class="col-md-6" data-aos="fade-right" class="">
             <img src="assets/img/gallery/madhava reddy.png" class="img-fluid img_padding" alt="" />
+          </div>
+
+
+
+          <div class="col-12 content_padding" data-aos="fade-left">
+
+            <h2 class=""> Member of reputed associations. </h2>
+
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Association of Spine Surgeons of India (ASSI) and participant in the annual conference (ASSICON). </p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Endoscopic Spine Foundation of India (ESFI). </p>
+
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Indian Orthopaedic Association (IOA).</p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i>Member of the Orthopaedic Surgery Society of Andhra Pradesh (OSSAP). </p>
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Bombay Spine Society (BSS).</p>
+
+            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Participant in the Western India Regional Orthopaedic Conference (WIROC).</p>
+
+
           </div>
         </div>
       </div>
@@ -198,62 +210,20 @@
     <section class="my-5">
       <div class="container">
         <div class="section-title text-center seven">
-          <h1>specialized In</h1>
-          <p class="text-center ">
-            Minimally invasive Spaine Surgeries (MIS) <br />
-            Endoscopic / Microscopic / Keyhole
-          </p>
+          <h1>Expertise In</h1>
+          <h3 class="text-center ">
+            <strong> Minimally invasive Spaine Surgeries (MIS) </strong>
+          </h3>
         </div>
 
         <div class="row">
 
-          <div class="col-md-6 my-3">
+          <div class="col-md-12  my-3">
             <div class="card shadow">
               <div class="card-body">
                 <div class="row">
                   <div class="col-5">
-                    <img src="assets/img/spain/sq2.jpg" class="img-fluid" />
-                  </div>
-                  <div class="col-7">
-                    <h5 class="card-title"><strong> Minimally invasive Spaine Surgeries
-                        (MIS)</strong> </h5>
-                    <p class="card-text">
-                      Our clinic excels in minimally invasive spine surgeries, ensuring reduced
-                      pain, minimal scarring, and faster recovery times. These advanced techniques
-                      allow for precise interventions with minimal disruption to surrounding
-                      tissues.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6  my-3">
-            <div class="card shadow">
-              <div class="card-body">
-                <div class="row">
-                  <div class="col-5">
-                    <img src="assets/img/spain/sq2.jpg" class="img-fluid" />
-                  </div>
-                  <div class="col-7">
-                    <h5 class="card-title"> <strong>Endoscopic</strong> </h5>
-                    <p class="card-text">
-                      Dr. MADHAVA REDDY's expertise in endoscopic spine surgery offers patients a
-                      less invasive option for treating spine conditions. Using small incisions
-                      and specialized instruments, endoscopic procedures result in quicker
-                      recovery and reduced post-operative pain.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6  my-3">
-            <div class="card shadow">
-              <div class="card-body">
-                <div class="row">
-                  <div class="col-5">
-                    <img src="assets/img/spain/sq2.jpg" class="img-fluid" />
+                    <img src="assets/img/sliders/microscopic.jpg" class="img-fluid" />
                   </div>
                   <div class="col-7">
                     <h5 class="card-title"><strong>Microscopic</strong> </h5>
@@ -267,26 +237,48 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6  my-3">
+
+          <div class="col-md-12  my-3">
             <div class="card shadow">
               <div class="card-body">
                 <div class="row">
-                  <div class="col-5">
-                    <img src="assets/img/spain/sq2.jpg" class="img-fluid" />
-                  </div>
+
                   <div class="col-7">
-                    <h5 class="card-title"> <strong>Keyhole</strong></h5>
+                    <h5 class="card-title"> <strong>Endoscopic</strong> </h5>
                     <p class="card-text">
-                      Keyhole surgery, a minimally invasive technique, is one of our specialties.
-                      This procedure involves small incisions and is designed to reduce recovery
-                      time and post-operative discomfort, allowing patients to return to their
-                      daily activities sooner.
+                      Dr. MADHAVA REDDY's expertise in endoscopic spine surgery offers patients a
+                      less invasive option for treating spine conditions. Using small incisions
+                      and specialized instruments, endoscopic procedures result in quicker
+                      recovery and reduced post-operative pain.
                     </p>
+                  </div>
+
+                  <div class="col-5">
+                    <img src="assets/img/sliders/endroscopic 2.jpg" class="img-fluid" />
                   </div>
                 </div>
               </div>
             </div>
           </div>
+
+          <div class="col-md-12 my-3">
+  <div class="card shadow">
+    <div class="card-body d-flex align-items-center">
+      <div class="row">
+        <div class="col-5">
+          <img src="assets/img/sliders/tubler system 3.jpg" class="img-fluid" />
+        </div>
+        <div class="col-7">
+          <h5 class="card-title"><strong>Tubler</strong></h5>
+          <p class="card-text">
+            Where we specialize in advanced orthopedic techniques for improved patient outcomes. Tublar surgery represents a state-of-the-art approach, offering minimally invasive solutions for various orthopedic conditions.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
 
@@ -309,48 +301,12 @@
               <div class="swiper mySwiper">
                 <div class="swiper-wrapper" style="padding-bottom: 70px;">
                   <!-- First Slide -->
-                  <div class="swiper-slide">
-                    <ul class="nav nav-tabs flex-column">
-                      <li class="nav-item mt-2">
-                        <a class="nav-link active" data-bs-toggle="tab" data-bs-target="#MIS" role="tab">
-                          <h4>MIS</h4>
-                        </a>
-                      </li>
-                      <li class="nav-item mt-2">
-                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Endoscopic" role="tab">
-                          <h4>Endoscopic</h4>
-                        </a>
-                      </li>
-                      <li class="nav-item mt-2">
-                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Microscopic" role="tab">
-                          <h4>Microscopic</h4>
-                        </a>
-                      </li>
-                      <li class="nav-item mt-2">
-                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Keyhole" role="tab">
-                          <h4>Keyhole</h4>
-                        </a>
-                      </li>
 
-                      <li class="nav-item mt-2">
-                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Sciatica" role="tab">
-                          <h4>Sciatica</h4>
-                        </a>
-                      </li>
-                      <li class="nav-item mt-2">
-                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Spondylosis" role="tab">
-                          <h4>Spondylosis</h4>
-                        </a>
-                      </li>
-
-
-                    </ul>
-                  </div>
                   <!-- Second Slide -->
                   <div class="swiper-slide">
                     <ul class="nav nav-tabs flex-column">
                       <li class="nav-item mt-2">
-                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Spondyloslithesis" role="tab">
+                        <a class="nav-link active" data-bs-toggle="tab" data-bs-target="#Spondyloslithesis" role="tab">
                           <h4>Spondyloslithesis</h4>
                         </a>
                       </li>
@@ -422,6 +378,16 @@
                   <div class="swiper-slide">
                     <ul class="nav nav-tabs flex-column">
                       <li class="nav-item mt-2">
+                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Sciatica" role="tab">
+                          <h4>Sciatica</h4>
+                        </a>
+                      </li>
+                      <li class="nav-item mt-2">
+                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Spondylosis" role="tab">
+                          <h4>Spondylosis</h4>
+                        </a>
+                      </li>
+                      <li class="nav-item mt-2">
                         <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Vertebroplasty" role="tab">
                           <h4>Vertebroplasty</h4>
                         </a>
@@ -449,69 +415,9 @@
             <div class="col-8 contaner_inner only_padding_on_right ">
               <div class="tab-content">
 
-                <div class="tab-pane active show" id="MIS">
-                  <img src="assets/img/spain/mis.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius" />
 
-                  <h3 class="some">About the Minimally invasive Spaine Surgeries (MIS)</h3>
-                  <p class=" ">
-                    Our clinic excels in minimally invasive spine surgeries, ensuring reduced pain,
-                    minimal scarring, and faster recovery times. These advanced techniques allow for
-                    precise interventions with minimal disruption to surrounding tissues.
-                  </p>
-                </div>
-                <div class="tab-pane" id="Endoscopic">
-                  <img src="assets/img/spain/endoscopic.webp" alt="CT Scanner Image" class="img-fluid service_img_radius" />
 
-                  <h3>About the Endoscopic</h3>
-                  <p class=" ">
-                    Dr. MADHAVA REDDY's expertise in endoscopic spine surgery offers patients a less
-                    invasive option for treating spine conditions. Using small incisions and
-                    specialized instruments, endoscopic procedures result in quicker recovery and
-                    reduced post-operative pain.
-                  </p>
-                </div>
-                <div class="tab-pane" id="Microscopic">
-                  <img src="assets/img/spain/microscopic.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius" />
-
-                  <h3>About the Microscopic</h3>
-                  <p class=" ">
-                    With a focus on precision, microscopic spine surgery at our clinic employs
-                    advanced microscopes to perform intricate surgeries with enhanced accuracy. This
-                    approach minimizes tissue damage and promotes better surgical outcomes.
-                  </p>
-                </div>
-                <div class="tab-pane" id="Keyhole">
-                  <img src="assets/img/spain/keyhole.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius" />
-
-                  <h3>About the Keyhole</h3>
-                  <p class=" ">
-                    Keyhole surgery, a minimally invasive technique, is one of our specialties. This
-                    procedure involves small incisions and is designed to reduce recovery time and
-                    post-operative discomfort, allowing patients to return to their daily activities
-                    sooner.
-                  </p>
-                </div>
-                <div class="tab-pane" id="Sciatica">
-                  <img src="assets/img/spain/Sciatica.webp" alt="CT Scanner Image" class="img-fluid service_img_radius">
-
-                  <h3>About the Sciatica</h3>
-                  <p class=" ">
-                    Our clinic provides comprehensive treatment for sciatica, focusing on relieving
-                    pain and addressing the underlying causes to restore normal activity levels.
-                </div>
-                <div class="tab-pane" id="Spondylosis">
-                  <img src="assets/img/spain/Spondylosis.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
-
-                  <h3>About the Spondylosis</h3>
-                  <p class=" ">
-                    We treat spondylosis, a general term for spinal degeneration, with a range of
-                    conservative and surgical options to relieve pain and improve function.
-
-                  </p>
-
-                </div>
-
-                <div class="tab-pane" id="Spondyloslithesis">
+                <div class="tab-pane active show" id="Spondyloslithesis">
                   <img src="assets/img/spain/Spondyloslithesis.webp" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>About the Spondyloslithesis</h3>
@@ -652,6 +558,25 @@
 
                 </div>
 
+                <div class="tab-pane" id="Sciatica">
+                  <img src="assets/img/spain/Sciatica.webp" alt="CT Scanner Image" class="img-fluid service_img_radius">
+
+                  <h3>About the Sciatica</h3>
+                  <p class=" ">
+                    Our clinic provides comprehensive treatment for sciatica, focusing on relieving
+                    pain and addressing the underlying causes to restore normal activity levels.
+                </div>
+                <div class="tab-pane" id="Spondylosis">
+                  <img src="assets/img/spain/Spondylosis.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
+
+                  <h3>About the Spondylosis</h3>
+                  <p class=" ">
+                    We treat spondylosis, a general term for spinal degeneration, with a range of
+                    conservative and surgical options to relieve pain and improve function.
+
+                  </p>
+
+                </div>
                 <div class="tab-pane" id="Vertebroplasty">
                   <img src="assets/img/spain/Vertebroplasty.webp" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
