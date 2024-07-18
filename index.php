@@ -94,6 +94,9 @@
         <img src="assets/img/sliders/tubler system 1.jpg" class="d-block img-fluid" alt="..." />
       </div>
       <div class="carousel-item">
+        <img src="assets/img/sliders/Open vs MIS ( minimally invasive )1 (1).png" class="d-block img-fluid" alt="..." />
+      </div>
+      <div class="carousel-item">
         <img src="assets/img/sliders/endroscopic.jpg" class="d-block img-fluid" alt="..." />
 
       </div>
@@ -155,11 +158,11 @@
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
 
-       
+
       <div class="container" data-aos="fade-up">
-      <div class="section-title text-center seven">
-      <h1>About</h1>
-      </div>
+        <div class="section-title text-center seven">
+          <h1>About</h1>
+        </div>
         <div class="row">
           <div class="col-md-6 content_padding" data-aos="fade-left">
 
@@ -991,10 +994,71 @@
       </script>
     </section>
 
-
-
-
     <!-- End Testimonials Section -->
+
+
+    <section id="about" class="about">
+
+
+      <div class="container" data-aos="fade-up">
+        <div class="section-title text-center seven">
+          <h1>Why Spine-360 is best ?</h1>
+        </div>
+        <div class="row">
+
+
+          <div class="col-md-6" data-aos="fade-right" class="">
+            <img src="assets/img/gallery/madhav (1).jpg" class="img-fluid img_padding" alt="" />
+          </div>
+
+
+          <div class="col-md-6 content_padding" data-aos="fade-left">
+
+            <h4 class="why_spine">
+              1) 360° comprehensive spine care
+            </h4>
+            <p class=" "> <i class="fa-solid fa-check"></i> A one stop solution for spine treatment
+            </p>
+            <p class=" ">
+              <i class="fa-solid fa-check"></i> A one stop solution for spine treatment
+            </p>
+
+            <h4 class="why_spine">
+              2) All Age Groups
+            </h4>
+            <p class=" "> <i class="fa-solid fa-check"></i>  Covers all age groups with spine issues, providing expert opinions and guidance to get you 'Back' to life.
+            </p>
+
+            <h4 class="why_spine">
+              3) Patient Friendly
+            </h4>
+            <p class=" "> <i class="fa-solid fa-check"></i>Our clinic is associated with a multi-range, multi-level equipped hospital to ensure patient care at all levels according to patient requirements.
+            </p>
+            <h4 class="why_spine">
+              4) Safe Hands
+            </h4>
+            <p class=" "> <i class="fa-solid fa-check"></i>Last but not least, you are in highly trained and expert hands.
+            </p>
+            <h4 class="why_spine">
+              5) Orthopedic Spine Care 
+            </h4>
+            <p class=" "> <i class="fa-solid fa-check"></i>Combined evaluation of orthopedic and spine care available.
+            </p>
+            <!-- <div class="d-flex flex-row justify-content-end">
+              <a href="#contact">
+                <p class="get_in_touch">
+                  Get In Touch <i class="fa-solid fa-arrow-right"></i>
+                </p>
+              </a>
+            </div> -->
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+
+
 
     <!-- ======= Contact Section ======= -->
 
@@ -1121,10 +1185,11 @@
             </div>
             <br>
             <br>
-            <div class="swiper-pagination mt-5"></div>
+            <div class=" swiper-pagination mt-5">
+              </div>
+            </div>
           </div>
         </div>
-      </div>
     </section>
 
 
@@ -1142,7 +1207,7 @@
           <div class="col-md-7 d-flex flex-row justify-content-center">
             <div class="footer-info">
               <a href="index.php" class="img-fluid">
-                <img src="assets/img/spain/spain_logo.png" style="height: 350px" alt="" /></a>
+                <img src="assets/img/spain/spain_logo.png" class="footer_logo_img img-fluid" alt="" /></a>
             </div>
           </div>
 
