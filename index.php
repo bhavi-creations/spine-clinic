@@ -93,9 +93,7 @@
       <div class="carousel-item">
         <img src="assets/img/sliders/tubler system 1.jpg" class="d-block img-fluid" alt="..." />
       </div>
-      <div class="carousel-item">
-        <img src="assets/img/sliders/Open vs MIS ( minimally invasive )1 (1).png" class="d-block img-fluid" alt="..." />
-      </div>
+
       <div class="carousel-item">
         <img src="assets/img/sliders/endroscopic.jpg" class="d-block img-fluid" alt="..." />
 
@@ -119,7 +117,7 @@
     <section class="oneStop">
       <div class="container">
         <div class="row">
-          <div class="stopSection">
+          <div class="stopSection" id="topsection">
             <div class="col-md-2  d-none d-md-block"> <img src="assets/img/spain/sp2.png" alt="" class="spineeimg">
             </div>
             <div class="col-md-8 ">
@@ -202,24 +200,28 @@
           <div class="col-12 " data-aos="fade-left">
 
             <h2 class="mt-4 mb-4 "> Member of reputed associations. </h2>
-<div class="row">
-  <div class="col-md-6"> <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Association of
-              Spine Surgeons of India (ASSI) and participant in the annual conference (ASSICON). </p>
-            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Endoscopic Spine
-              Foundation of India (ESFI). </p>
+            <div class="row">
+              <div class="col-md-6">
+                <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Association of
+                  Spine Surgeons of India (ASSI) and participant in the annual conference (ASSICON). </p>
+                <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Endoscopic Spine
+                  Foundation of India (ESFI). </p>
 
-            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Indian Orthopaedic
-              Association (IOA).</p></div>
-  <div class="col-md-6">    <p class="about_degree"><i class="fa-solid fa-arrow-right"></i>Member of the Orthopaedic Surgery
-              Society of Andhra Pradesh (OSSAP). </p>
-            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Bombay Spine
-              Society (BSS).</p>
+                <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Indian Orthopaedic
+                  Association (IOA).</p>
+              </div>
+              <div class="col-md-6">
+                <p class="about_degree"><i class="fa-solid fa-arrow-right"></i>Member of the Orthopaedic Surgery
+                  Society of Andhra Pradesh (OSSAP). </p>
+                <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Bombay Spine
+                  Society (BSS).</p>
 
-            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Participant in the Western India
-              Regional Orthopaedic Conference (WIROC).</p></div>
-</div>
-           
-        
+                <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Participant in the Western India
+                  Regional Orthopaedic Conference (WIROC).</p>
+              </div>
+            </div>
+
+
 
 
           </div>
@@ -243,10 +245,10 @@
             <div class="card shadow">
               <div class="card-body">
                 <div class="row">
-                  <div class="col-5 d-flex justify-content-center align-items-center">
+                  <div class="col-md-5 d-flex justify-content-center align-items-center">
                     <img src="assets/img/sliders/microscopic.jpg" class="img-fluid" />
                   </div>
-                  <div class="col-7 d-flex align-items-center">
+                  <div class="col-md-7 d-flex align-items-center">
                     <div class="">
                       <h5 class="card-title"><strong>Microscopic</strong> </h5>
                       <p class="card-text">
@@ -266,7 +268,7 @@
               <div class="card-body">
                 <div class="row">
 
-                  <div class="col-7 d-flex align-items-center">
+                  <div class="col-md-7 d-flex align-items-center  order-2 order-md-1">
                     <div class="">
                       <h5 class="card-title"> <strong>Endoscopic</strong> </h5>
                       <p class="card-text">
@@ -278,7 +280,7 @@
                     </div>
                   </div>
 
-                  <div class="col-5 d-flex justify-content-center align-items-center">
+                  <div class="col-md-5 d-flex justify-content-center align-items-center order-1 order-md-2">
                     <img src="assets/img/sliders/endroscopic 2.jpg" class="img-fluid" />
                   </div>
                 </div>
@@ -290,10 +292,10 @@
             <div class="card shadow">
               <div class="card-body d-flex align-items-center">
                 <div class="row">
-                  <div class="col-5 d-flex justify-content-center align-items-center">
+                  <div class="col-md-5 d-flex justify-content-center align-items-center">
                     <img src="assets/img/sliders/tubler system 3.jpg" class="img-fluid" />
                   </div>
-                  <div class="col-7 d-flex align-items-center">
+                  <div class="col-md-7 d-flex align-items-center">
                     <div class="">
                       <h5 class="card-title"><strong>Tubler</strong></h5>
                       <p class="card-text">
@@ -410,14 +412,13 @@
 
     </section>
 
-    </div>
-    </section>
+     
 
     <section id="facilities" class="departments">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title text-center seven">
-          <h1>Specializes in the treatment of</h1>
+          <h1 id="specialized_in_tratmernt">Specializes in   treatment  </h1>
           <p class="service_text"></p>
         </div>
 
@@ -662,7 +663,7 @@
     <section id="appointment" class="appointment">
       <div class="container">
         <div class="section-title seven">
-          <h1 class="pt-5">Make an Appointment</h1>
+          <h1 class="pt-5"  id="specialized_in_tratmernt">Make an Appointment</h1>
         </div>
 
         <div class="row ">
@@ -743,7 +744,7 @@
         <div class="testimonials-slider swiper mt-0" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper">
 
-          
+
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -799,17 +800,20 @@
                 <img src="assets/img/train/t9.jpeg" class="img-fluid galImg">
                 <p class="trainName">CERVICAL LATERAL MASS FIXATIONS</p>
               </div>
-            </div><div class="swiper-slide">
+            </div>
+            <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/train/t10.jpeg" class="img-fluid galImg">
                 <p class="trainName">DORSAL DECOMPRESSIONS AND FIXATIONS</p>
               </div>
-            </div><div class="swiper-slide">
+            </div>
+            <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/train/t11.jpeg" class="img-fluid galImg">
                 <p class="trainName"> SPINAL BIOPSIES</p>
               </div>
-            </div><div class="swiper-slide">
+            </div>
+            <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/train/t12.jpeg" class="img-fluid galImg">
                 <p class="trainName">PAIN MANAGEMENT (SPINAL INJECTIONS)</p>
@@ -1057,7 +1061,7 @@
 
       <div class="container" data-aos="fade-up">
         <div class="section-title text-center seven">
-          <h1>Why Spine-360 is best ?</h1>
+          <h1  id="why_best">Why Spine-360° is best ?</h1>
         </div>
         <div class="row spine360">
 
@@ -1161,7 +1165,7 @@
             </div>
           </div>
 
-          <div class="col-lg-5 contact_form text-center" style="margin-top: -80px">
+          <div class="col-lg-5 contact_form text-center"  >
             <form action="contactform .php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group mt-3">
@@ -1210,7 +1214,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/train" class="img-fluid galImg">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
               </div>
             </div>
 

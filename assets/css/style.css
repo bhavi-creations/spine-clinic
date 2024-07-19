@@ -380,7 +380,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #555555;
+  color: #ffffff;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -2285,7 +2285,12 @@ border-radius: 10px;
   );
   background: #5db9e354;
 }
-
+@media (min-width:992px) {
+.contact_form {
+  margin-top: -80px
+  
+}
+}
 .contact_form {
   /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
   transition: box-shadow 0.3s ease-in-out;
@@ -2417,6 +2422,15 @@ border-radius: 10px;
   /* height: 130px; */
 }
 
+@media (max-width:992px){
+  .navbar a,
+.navbar a:focus {
+ 
+  color: rgb(0, 0, 0) !important;
+   font-weight: bold !important;
+}
+}
+
 .navbar a,
 .navbar a:focus {
   display: flex;
@@ -2428,6 +2442,16 @@ border-radius: 10px;
   white-space: nowrap;
   transition: 0.3s;
   font-weight: 500;
+}
+
+@media (max-width:768px) {
+  
+.appointment-btn {
+  
+  padding: 5px !important;
+ padding-right: 105px !important;
+}
+
 }
 
 .appointment-btn {
@@ -2503,6 +2527,24 @@ border-radius: 10px;
 .some {
   color: white !important;
 }
+@media (max-width:768px) {
+  .seven h1 {
+  font-size: 25px !important;
+
+}
+#specialized_in_tratmernt{
+  font-size: 20px !important;
+  
+}
+#why_best{
+  font-size: 20px !important;
+
+}
+
+.img_padding{
+margin-bottom: 50px;
+}
+}
 .seven h1 {
   text-align: center;
   font-size: 30px;
@@ -2552,6 +2594,14 @@ img.spineeimg {
 img.spineeimg1 {
   width: 58%;
   opacity: 0.3;
+}
+
+@media (max-width:768px) {
+  #topsection {
+    padding: 60px 0px 10px 0px;
+
+    
+  }
 }
 .stopSection {
   display: flex;
