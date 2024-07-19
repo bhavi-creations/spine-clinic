@@ -120,12 +120,14 @@
       <div class="container">
         <div class="row">
           <div class="stopSection">
-            <div class="col-md-2"> <img src="assets/img/spain/sp2.png" alt="" class="spineeimg">
+            <div class="col-md-2  d-none d-md-block"> <img src="assets/img/spain/sp2.png" alt="" class="spineeimg">
             </div>
-            <div class="col-md-8">
+            <div class="col-md-8 ">
               <div class="section-title text-center">
                 <h1 class="main_heading_color"> Your One-Stop Solution for Comprehensive Spine and
                   Orthopedic Care </h1>
+
+                <img src="assets/img/spain/sp2.png" alt="" class="spineeimg d-md-none ">
 
                 <h5 class="   px-5 p-4 madhav"> <strong>Dr. Madhava Reddy's Center for Spine and
                     Orthopedic
@@ -141,10 +143,11 @@
                     issues, catering
                     to individuals of all ages. </strong></h5>
 
+                <img src="assets/img/spain/s1.png" alt="" class="spineeimg1  d-md-none ">
 
               </div>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 d-none d-md-block">
               <img src="assets/img/spain/s1.png" alt="" class="spineeimg1">
 
             </div>
@@ -498,7 +501,7 @@
 
                   <div class="swiper-slide">
                     <ul class="nav nav-tabs flex-column">
-                      
+
                       <li class="nav-item mt-2">
                         <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Injections" role="tab">
                           <h4>Spinal Injections</h4>
@@ -520,7 +523,8 @@
 
 
                 <div class="tab-pane active show" id="Spondyloslithesis">
-                  <img src="assets/img/spain/Spondyloslithesis.webp" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                  <img src="assets/img/sliders/Lumbar Disc Prolapse.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+
 
                   <h3>Lumbar Disc Prolapse</h3>
                   <p class=" ">Dr. Madhava Reddy specializes in advanced treatments for lumbar disc prolapse, focusing on personalized care and effective management strategies tailored to each patient's needs. His expertise encompasses both conservative and surgical interventions aimed at relieving symptoms and restoring spinal health.
@@ -530,7 +534,7 @@
 
                 </div>
                 <div class="tab-pane" id="Dorsal">
-                  <img src="assets/img/spain/Dorsal.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                  <img src="assets/img/sliders/Lumbar canal stenosis.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>Lumbar canal stenosis</h3>
                   <p class=" ">Lumbar canal stenosis is a condition characterized by narrowing of the spinal canal in the lower back, typically due to degenerative changes such as bone spurs or thickened ligaments. This narrowing can compress the spinal nerves and cause symptoms such as pain, numbness, or weakness in the lower back, buttocks, and legs.
@@ -540,7 +544,7 @@
 
                 </div>
                 <div class="tab-pane" id="Lumbar">
-                  <img src="assets/img/spain/Lumbar Spine Surgeries.webp" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                  <img src="assets/img/sliders/Spinal Trauma.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>Spinal Trauma/Fractures</h3>
                   <p class=" "> Spinal trauma and fractures refer to injuries to the spinal column, which can result from accidents, falls, sports injuries, or underlying medical conditions. These injuries can range from minor fractures to severe trauma affecting spinal stability and function.
@@ -548,7 +552,7 @@
 
                 </div>
                 <div class="tab-pane" id="Cervical">
-                  <img src="assets/img/spain/Cervical Spondylosis.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                  <img src="assets/img/sliders/Spinal tumors Spinal tumors .png" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>Spinal tumors</h3>
                   <p class=" ">Spinal tumors are abnormal growths of tissue within the spinal canal or the bones of the spine. These tumors can be benign (non-cancerous) or malignant (cancerous) and may originate from the spinal cord, nerve roots, or surrounding structures. Spinal tumors can cause pain, neurological deficits, and affect overall spinal function.
@@ -558,16 +562,16 @@
 
                 </div>
                 <div class="tab-pane" id="Myelopaties">
-                  <img src="assets/img/spain/Myelopaties.webp" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                  <img src="assets/img/sliders/spinal infection.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>Spine/Spinal Infections</h3>
                   <p class=" ">
-                  Dr. Madhava Reddy is renowned for his specialized expertise in diagnosing and treating spinal infections. With a focus on comprehensive care and advanced treatment strategies, he offers personalized solutions tailored to each patient's condition and needs.
+                    Dr. Madhava Reddy is renowned for his specialized expertise in diagnosing and treating spinal infections. With a focus on comprehensive care and advanced treatment strategies, he offers personalized solutions tailored to each patient's condition and needs.
                   </p>
 
                 </div>
                 <div class="tab-pane" id="Disc">
-                  <img src="assets/img/spain/Disc Prolapse.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                  <img src="assets/img/sliders/Cervical Myelopathy .png" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>Cervical Myelopathy</h3>
                   <p class=" ">Dr. Madhava Reddy is renowned for his specialized treatments for cervical myelopathy, focusing on comprehensive care and personalized treatment plans tailored to each patient's specific condition and needs. His approach combines advanced medical expertise with a compassionate understanding of the challenges faced by patients with spinal disorders.</p>
@@ -575,33 +579,33 @@
                 </div>
 
                 <div class="tab-pane" id="Fractures">
-                  <img src="assets/img/spain/Fractures.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                  <img src="assets/img/sliders/Dorsal Tumors .png" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>Dorsal Tumors/Infections</h3>
                   <p class=" ">
 
-                  Dr. Madhava Reddy specializes in the comprehensive management of dorsal tumors and infections, leveraging advanced diagnostic techniques and personalized treatment strategies to address each patient's unique needs. His expertise encompasses both surgical and non-surgical interventions aimed at restoring spinal function and improving quality of life.</p>
+                    Dr. Madhava Reddy specializes in the comprehensive management of dorsal tumors and infections, leveraging advanced diagnostic techniques and personalized treatment strategies to address each patient's unique needs. His expertise encompasses both surgical and non-surgical interventions aimed at restoring spinal function and improving quality of life.</p>
                 </div>
                 <div class="tab-pane" id="Trauma">
-                  <img src="assets/img/spain/Trauma.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                  <img src="assets/img/sliders/Cervical disc prolapse.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>Cervical disc prolapse</h3>
                   <p class=" ">
-                  Dr. Madhava Reddy is renowned for his specialized treatments for cervical disc prolapse, focusing on comprehensive care and advanced treatment options tailored to each patient's needs. His expertise spans both conservative management and surgical interventions aimed at relieving symptoms and restoring spinal health.
+                    Dr. Madhava Reddy is renowned for his specialized treatments for cervical disc prolapse, focusing on comprehensive care and advanced treatment options tailored to each patient's needs. His expertise spans both conservative management and surgical interventions aimed at relieving symptoms and restoring spinal health.
                   </p>
 
                 </div>
                 <div class="tab-pane" id="Tumors">
-                  <img src="assets/img/spain/Spinal Tumors.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                  <img src="assets/img/sliders/Osteoporosis.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>Osteoporosis</h3>
                   <p class=" ">
-                  Dr. Madhava Reddy specializes in comprehensive osteoporosis care, focusing on early diagnosis, personalized treatment plans, and preventive measures. His expertise encompasses both medical management and lifestyle interventions to optimize bone health and reduce fracture risks.
+                    Dr. Madhava Reddy specializes in comprehensive osteoporosis care, focusing on early diagnosis, personalized treatment plans, and preventive measures. His expertise encompasses both medical management and lifestyle interventions to optimize bone health and reduce fracture risks.
                   </p>
 
                 </div>
                 <div class="tab-pane" id="Infections">
-                  <img src="assets/img/spain/Infections.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                  <img src="assets/img/sliders/Scoliosis 1.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>Deformities: Scoliosis/Kyphosis</h3>
                   <p class=" ">Dr. Madhava Reddy is renowned for his expertise in the comprehensive treatment of spinal deformities, focusing on both conservative and surgical interventions tailored to individual patient needs.
@@ -609,7 +613,7 @@
 
                 </div>
                 <div class="tab-pane" id="Kochs">
-                  <img src="assets/img/spain/Kochs Spine.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                  <img src="assets/img/sliders/Orthopaedic Trauma .png" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>Orthopaedic Trauma</h3>
                   <p class=" "> Dr. Madhava Reddy is renowned for his expertise in the field of orthopaedic trauma, dedicating his practice to providing comprehensive care and advanced treatments for patients with traumatic injuries. With years of specialized training and experience, Dr. Madhava Reddy offers compassionate care combined with innovative surgical and non-surgical interventions to restore function and quality of life.
@@ -617,16 +621,16 @@
 
                 </div>
                 <div class="tab-pane" id="Deformity">
-                  <img src="assets/img/spain/Deformity Corrections.jpg" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                  <img src="assets/img/sliders/Spinal Cord Injury Treatment.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                   <h3>Spinal Cord Injury Treatment</h3>
                   <p class=" ">
-                  Dr. Madhava Reddy is a distinguished specialist known for his expertise in the treatment of spinal cord injuries. With extensive training and experience in spinal surgery and neurosurgical techniques, he offers advanced care and innovative treatments tailored to each patient's unique condition and needs.
+                    Dr. Madhava Reddy is a distinguished specialist known for his expertise in the treatment of spinal cord injuries. With extensive training and experience in spinal surgery and neurosurgical techniques, he offers advanced care and innovative treatments tailored to each patient's unique condition and needs.
                   </p>
 
                 </div>
 
-                 
+
                 <div class="tab-pane" id="Injections">
                   <img src="assets/img/spain/Spinal Injections.webp" alt="CT Scanner Image" class="img-fluid service_img_radius">
 
@@ -728,6 +732,100 @@
       </div>
     </section>
 
+    <div class="section-title seven pb-0">
+      <h1>Trained In</h1>
+    </div>
+    <section id="gallery" class="appointment section-bg">
+      <div class="container" data-aos="fade-up">
+        <div class="testimonials-slider swiper mt-0" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+          
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <p>MICRODISCECTOMY (TUBULAR/ENDOSCOPIC)</p>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <p>LAMINEUTOMIES</p>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <p>TUBLAR/ENDOSCOPIC/MICROSCOPIC LUMBAR Fuslons</p>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <p>CERVICAL POSTEROR LAMINECTOMIES</p>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <p>ACDF (ANTEROR CERVICAL DISCECTOMY AND FUSION)</p>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <p>KYPHOPLASTY</p>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <p>VERTEBROPLASTY</p>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <p>MIS SPINAL FIXATIONS</p>
+              </div>
+            </div>
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <p>CERVICAL LATERAL MASS FIXATIONS</p>
+              </div>
+            </div><div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <p>DORSAL DECOMPRESSIONS AND FIXATIONS</p>
+              </div>
+            </div><div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <p> SPINAL BIOPSIES</p>
+              </div>
+            </div><div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <p>PAIN MANAGEMENT (SPINAL INJECTIONS)</p>
+              </div>
+            </div>
+
+
+
+
+
+          </div>
+          <br>
+          <br>
+          <div class=" swiper-pagination mt-5">
+          </div>
+        </div>
+      </div>
+      </div>
+    </section>
 
     <section>
       <div class="container">
