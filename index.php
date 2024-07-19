@@ -167,7 +167,7 @@
           <h1>About</h1>
         </div>
         <div class="row">
-          <div class="col-md-6 content_padding" data-aos="fade-left">
+          <div class="col-md-8 " data-aos="fade-left">
 
             <h2 class="welcome_text_oncology">
               Dr.MADHAVA REDDY's <br> Spine 360
@@ -193,30 +193,33 @@
 
           </div>
 
-          <div class="col-md-6" data-aos="fade-right" class="">
-            <img src="assets/img/gallery/madhava reddy.png" class="img-fluid img_padding" alt="" />
+          <div class="col-md-4" data-aos="fade-right" class="">
+            <img src="assets/img/gallery/madhava reddy.png" class="img-fluid " alt="" />
           </div>
 
 
 
-          <div class="col-12 content_padding" data-aos="fade-left">
+          <div class="col-12 " data-aos="fade-left">
 
-            <h2 class=""> Member of reputed associations. </h2>
-
-            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Association of
+            <h2 class="mt-4 mb-4 "> Member of reputed associations. </h2>
+<div class="row">
+  <div class="col-md-6"> <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Association of
               Spine Surgeons of India (ASSI) and participant in the annual conference (ASSICON). </p>
             <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Endoscopic Spine
               Foundation of India (ESFI). </p>
 
             <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Indian Orthopaedic
-              Association (IOA).</p>
-            <p class="about_degree"><i class="fa-solid fa-arrow-right"></i>Member of the Orthopaedic Surgery
+              Association (IOA).</p></div>
+  <div class="col-md-6">    <p class="about_degree"><i class="fa-solid fa-arrow-right"></i>Member of the Orthopaedic Surgery
               Society of Andhra Pradesh (OSSAP). </p>
             <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Member of the Bombay Spine
               Society (BSS).</p>
 
             <p class="about_degree"><i class="fa-solid fa-arrow-right"></i> Participant in the Western India
-              Regional Orthopaedic Conference (WIROC).</p>
+              Regional Orthopaedic Conference (WIROC).</p></div>
+</div>
+           
+        
 
 
           </div>
@@ -225,7 +228,7 @@
     </section>
     <!-- End About Us Section -->
 
-    <section class="my-5">
+    <section class="">
       <div class="container">
         <div class="section-title text-center seven">
           <h1>Expertise In</h1>
@@ -744,72 +747,72 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
-                <p>MICRODISCECTOMY (TUBULAR/ENDOSCOPIC)</p>
+                <img src="assets/img/train/t1.jpeg" class="img-fluid galImg">
+                <p class="trainName">MICRODISCECTOMY (TUBULAR/ENDOSCOPIC)</p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
-                <p>LAMINEUTOMIES</p>
+                <img src="assets/img/train/t2.jpeg" class="img-fluid galImg">
+                <p class="trainName">LAMINEUTOMIES</p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
-                <p>TUBLAR/ENDOSCOPIC/MICROSCOPIC LUMBAR Fuslons</p>
+                <img src="assets/img/train/t3.jpeg" class="img-fluid galImg">
+                <p class="trainName">TUBLAR/ENDOSCOPIC/MICROSCOPIC LUMBAR Fuslons</p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
-                <p>CERVICAL POSTEROR LAMINECTOMIES</p>
+                <img src="assets/img/train/t4.jpeg" class="img-fluid galImg">
+                <p class="trainName">CERVICAL POSTEROR LAMINECTOMIES</p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
-                <p>ACDF (ANTEROR CERVICAL DISCECTOMY AND FUSION)</p>
+                <img src="assets/img/train/t5.jpeg" class="img-fluid galImg">
+                <p class="trainName">ACDF (ANTEROR CERVICAL DISCECTOMY AND FUSION)</p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
-                <p>KYPHOPLASTY</p>
+                <img src="assets/img/train/t6.jpeg" class="img-fluid galImg">
+                <p class="trainName">KYPHOPLASTY</p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
-                <p>VERTEBROPLASTY</p>
+                <img src="assets/img/train/t7.jpeg" class="img-fluid galImg">
+                <p class="trainName">VERTEBROPLASTY</p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
-                <p>MIS SPINAL FIXATIONS</p>
+                <img src="assets/img/train/t8.jpeg" class="img-fluid galImg">
+                <p class="trainName">MIS SPINAL FIXATIONS</p>
               </div>
             </div>
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
-                <p>CERVICAL LATERAL MASS FIXATIONS</p>
+                <img src="assets/img/train/t9.jpeg" class="img-fluid galImg">
+                <p class="trainName">CERVICAL LATERAL MASS FIXATIONS</p>
               </div>
             </div><div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
-                <p>DORSAL DECOMPRESSIONS AND FIXATIONS</p>
+                <img src="assets/img/train/t10.jpeg" class="img-fluid galImg">
+                <p class="trainName">DORSAL DECOMPRESSIONS AND FIXATIONS</p>
               </div>
             </div><div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
-                <p> SPINAL BIOPSIES</p>
+                <img src="assets/img/train/t11.jpeg" class="img-fluid galImg">
+                <p class="trainName"> SPINAL BIOPSIES</p>
               </div>
             </div><div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
-                <p>PAIN MANAGEMENT (SPINAL INJECTIONS)</p>
+                <img src="assets/img/train/t12.jpeg" class="img-fluid galImg">
+                <p class="trainName">PAIN MANAGEMENT (SPINAL INJECTIONS)</p>
               </div>
             </div>
 
@@ -884,7 +887,7 @@
     <section id="testimonials" class="testimonials ">
       <div class="container" data-aos="fade-up">
         <div class="section-title seven">
-          <h1 class="pt-5">Testimonials</h1>
+          <h1 class="pt-0">Testimonials</h1>
         </div>
 
         <div class="testimonials-slider swiper tetniomial_section_bg pt-5 pb-5" data-aos="fade-up" data-aos-delay="100">
@@ -1207,7 +1210,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/gallery/gellary (1).jpg" class="img-fluid galImg">
+                <img src="assets/img/train" class="img-fluid galImg">
               </div>
             </div>
 

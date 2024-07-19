@@ -2664,3 +2664,12 @@ img.img-fluid.appoinment {
   box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
     rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
 }
+p.trainName {
+  color: white;
+  background: #19516a;
+  padding: 8px 0px 8px 0px;
+  text-align: center;
+  font-size: 16px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
