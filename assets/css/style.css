@@ -1961,6 +1961,7 @@ section {
   font-weight: 800;
   font-size: 35px;
   color: #f17e2d;
+  line-height: 19px;
 }
 
 @media (min-width: 992px) {
@@ -2285,11 +2286,10 @@ border-radius: 10px;
   );
   background: #5db9e354;
 }
-@media (min-width:992px) {
-.contact_form {
-  margin-top: -80px
-  
-}
+@media (min-width: 992px) {
+  .contact_form {
+    margin-top: -80px;
+  }
 }
 .contact_form {
   /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
@@ -2422,13 +2422,12 @@ border-radius: 10px;
   /* height: 130px; */
 }
 
-@media (max-width:992px){
+@media (max-width: 992px) {
   .navbar a,
-.navbar a:focus {
- 
-  color: rgb(0, 0, 0) !important;
-   font-weight: bold !important;
-}
+  .navbar a:focus {
+    color: rgb(0, 0, 0) !important;
+    font-weight: bold !important;
+  }
 }
 
 .navbar a,
@@ -2444,14 +2443,11 @@ border-radius: 10px;
   font-weight: 500;
 }
 
-@media (max-width:768px) {
-  
-.appointment-btn {
-  
-  padding: 5px !important;
- padding-right: 105px !important;
-}
-
+@media (max-width: 768px) {
+  .appointment-btn {
+    padding: 5px !important;
+    padding-right: 105px !important;
+  }
 }
 
 .appointment-btn {
@@ -2527,23 +2523,20 @@ border-radius: 10px;
 .some {
   color: white !important;
 }
-@media (max-width:768px) {
+@media (max-width: 768px) {
   .seven h1 {
-  font-size: 25px !important;
+    font-size: 25px !important;
+  }
+  #specialized_in_tratmernt {
+    font-size: 20px !important;
+  }
+  #why_best {
+    font-size: 20px !important;
+  }
 
-}
-#specialized_in_tratmernt{
-  font-size: 20px !important;
-  
-}
-#why_best{
-  font-size: 20px !important;
-
-}
-
-.img_padding{
-margin-bottom: 50px;
-}
+  .img_padding {
+    margin-bottom: 50px;
+  }
 }
 .seven h1 {
   text-align: center;
@@ -2596,11 +2589,9 @@ img.spineeimg1 {
   opacity: 0.3;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
   #topsection {
     padding: 60px 0px 10px 0px;
-
-    
   }
 }
 .stopSection {
@@ -2722,4 +2713,18 @@ p.trainName {
   font-size: 16px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+}
+.about_degree360 {
+  color: #9f5724;
+  font-size: 18px;
+  font-family: "Mulish";
+  letter-spacing: 1px;
+  word-spacing: 5px;
+  font-weight: 800;
+  text-decoration: underline;
+}
+h3.Prolapse {
+  color: #e2f0f6 !important;
+  text-decoration: underline;
+  word-spacing: 2px;
 }
