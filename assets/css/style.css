@@ -2582,11 +2582,11 @@ border-radius: 10px;
 } */
 img.spineeimg {
   width: 105%;
-  opacity: 0.6;
+  /* opacity: 0.6; */
 }
 img.spineeimg1 {
-  width: 58%;
-  opacity: 0.3;
+  width: 20%;
+  /* opacity: 0.3; */
 }
 
 @media (max-width: 768px) {
@@ -2600,7 +2600,7 @@ img.spineeimg1 {
   /* background-image: radial-gradient(circle, #19516a, #22617e, #2b7292, #3483a7, #3d95bc, #3f9ac2, #409ec8, #42a3ce, #3c9bc6, #3794be, #318cb6, #2b85ae); */
   box-shadow: rgb(25 81 106) 0px 2px 4px 0px, rgb(25 81 106) 0px 2px 16px 0px;
   border-radius: 87px;
-  padding: 60px 0px 10px 50px;
+  padding: 10px 0px 10px 50px;
   background: #19516a1c;
 }
 h5.px-5.p-4.madhav {
@@ -2608,6 +2608,7 @@ h5.px-5.p-4.madhav {
   font-weight: 100;
   font-family: math;
   line-height: 29px;
+  color: black;
 }
 .why_spine {
   font-family: math;
@@ -2727,4 +2728,17 @@ h3.Prolapse {
   color: #e2f0f6 !important;
   text-decoration: underline;
   word-spacing: 2px;
+}
+.req {
+  width: 100%;
+}
+ul.Microincision {
+  list-style: auto;
+}
+li.Microincision {
+  color: #19516a;
+  font-size: 21px;
+  font-family: "boxicons";
+  font-family: cursive;
+  margin-bottom: 10px;
 }
