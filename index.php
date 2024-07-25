@@ -174,17 +174,17 @@
                     <div class="col-md-8 " data-aos="fade-left">
 
                         <h2 class="welcome_text_oncology mb-4">
-                            Dr.MADHAVA's SPINE 360° <br /><span class="about_degree360">Promises Exclusive and Expert
+                            Dr.MADHAV's SPINE 360° <br /><span class="about_degree360">Promises Exclusive and Expert
                                 Services</span>
                         </h2>
                         <p class=" ">
-                            Consultant orthopedic spine surgeon, located in Kakinada, promises exclusive and expert
+                            Consultant Orthopedic Spine Surgeon, located in Kakinada, promises exclusive and expert
                             services in SPINE SURGERY with utmost precision, empathy, and care. <br><br> Dr. Madhava
                             Reddy holds both MS Orthopedics and DNB Ortho degrees, with advanced minimally invasive
                             fellowships in spine surgery in Mumbai and South Korea.
                         </p>
                         <p class="about_degree"><i class="fa-solid fa-arrow-right"></i>&nbsp; MBBS from the prestigious
-                            Rangaraya Medical College in Kakinada, Andhra Pradesh - 2016</p>
+                            Rangaraya Medical College in Kakinada, Andhra Pradesh - 2017</p>
                         <p class="about_degree"><i class="fa-solid fa-arrow-right"></i>&nbsp; MS Orthopedics from Guntur
                             Government
                             Medical College, Andhra Pradesh - 2021</p>
@@ -323,12 +323,12 @@
                                     </div>
                                     <div class="col-md-7 d-flex align-items-center">
                                         <div class="">
-                                            <h5 class="card-title"><strong>Tubler</strong></h5>
+                                            <h5 class="card-title"><strong>Tubular</strong></h5>
                                             <p class="card-text">
                                                 Where we specialize in advanced Spine techniques Various Spine
                                                 Conditions for improved
                                                 patient
-                                                outcomes. Tublar surgery represents a state-of-the-art approach,
+                                                outcomes. tubular surgery represents a state-of-the-art approach,
                                                 offering
                                                 minimally invasive solutions for various orthopedic conditions.
                                             </p>
@@ -856,7 +856,7 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <img src="assets/img/train/t2.jpeg" class="img-fluid galImg">
-                                <p class="trainName">LAMINEUTOMIES</p>
+                                <p class="trainName">Laminectomies</p>
                             </div>
                         </div>
                         <div class="swiper-slide">
@@ -983,10 +983,10 @@
                     </h3>
 
                     <?php
-          include './db.connection/db_connection.php';
-          // Fetch latest 3 blogs
-          $sql = "SELECT * FROM blog ORDER BY time DESC LIMIT 3";
-          $result = $conn->query($sql); ?>
+                    include './db.connection/db_connection.php';
+                    // Fetch latest 3 blogs
+                    $sql = "SELECT * FROM blog ORDER BY time DESC LIMIT 3";
+                    $result = $conn->query($sql); ?>
 
                     <?php while ($row = $result->fetch_assoc()) : ?>
                     <div class="col-12 col-md-4 px-5 py-2">
@@ -1283,10 +1283,10 @@
                             <div class="col-md-6 text-center">
                                 <h2 class="h_text_form">Dail On</h2>
                                 <p class="p_text_form">
-                                    <i class="fa-solid fa-phone"></i>+91 8179840439
+                                    <i class="fa-solid fa-phone"></i>+91 8374449769
                                 </p>
                                 <p class="p_text_form">
-                                    <i class="fa-solid fa-phone"></i>+91 8374449769
+                                    <i class="fa-solid fa-phone"></i>+91 8179840439
                                 </p>
                             </div>
 
@@ -1387,6 +1387,11 @@
                         <div class="swiper-slide">
                             <div class="testimonial-item">
                                 <img src="assets/img/gallery/gellary (5).png" class="img-fluid galImg">
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="testimonial-item">
+                                <img src="assets/img/gallery/gellary.jpeg" class="img-fluid galImg">
                             </div>
                         </div>
 
