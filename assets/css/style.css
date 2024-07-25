@@ -2539,11 +2539,9 @@ border-radius: 10px;
   }
 }
 
-.simpally_test{
+.simpally_test {
   font-weight: 600;
   color: #1d6d91;
- 
-
 }
 
 .seven h1 {
@@ -2749,4 +2747,7 @@ li.Microincision {
   font-family: "boxicons";
   font-family: cursive;
   margin-bottom: 10px;
+}
+.oneStopp {
+  padding-top: 100px !important;
 }
