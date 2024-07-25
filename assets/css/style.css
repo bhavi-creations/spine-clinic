@@ -1955,6 +1955,18 @@ section {
   font-size: 39px;
 }
 
+@media (max-width:768px) {
+  .welcome_text_oncology {
+    font-family: "Mukta Vaani", sans-serif;
+  
+    font-weight: 800;
+    font-size: 30px !important;
+    color: #f17e2d;
+    line-height: 19px;
+    
+  }
+}
+
 .welcome_text_oncology {
   font-family: "Mukta Vaani", sans-serif;
 
@@ -2729,6 +2741,7 @@ p.trainName {
   word-spacing: 5px;
   font-weight: 800;
   text-decoration: underline;
+ line-height: 30px;
 }
 h3.Prolapse {
   color: #e2f0f6 !important;
@@ -2748,6 +2761,17 @@ li.Microincision {
   font-family: cursive;
   margin-bottom: 10px;
 }
-.oneStopp {
-  padding-top: 100px !important;
+
+@media (min-width:768px) {
+  
+  
+  #oneStopp {
+    padding-top: 100px !important;
+  }  
+}
+@media (min-width:768px) and (max-width:992px) {
+  
+  .image_top_padding{
+    margin-top: 125px;
+  }
 }
