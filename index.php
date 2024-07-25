@@ -147,7 +147,7 @@
                                         issues, catering
                                         to individuals of all ages. </strong></h5>
 
-                                <img src="assets/img/spain/spain_logo.png" alt="" class="spineeimg1  ">
+                                <img src="assets/img/spain/spain_logo.png" alt="" class="spineeimg1  " id="image_size">
 
                             </div>
                         </div>
@@ -1391,7 +1391,7 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/gallery/gellary.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/gallery/singh_bro.png" class="img-fluid galImg">
                             </div>
                         </div>
 

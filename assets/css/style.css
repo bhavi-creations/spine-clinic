@@ -2775,3 +2775,7 @@ li.Microincision {
     margin-top: 125px;
   }
 }
+
+#image_size{
+  width: 50% !important;
+}
