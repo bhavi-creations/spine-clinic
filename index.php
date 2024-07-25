@@ -124,9 +124,9 @@
                         <div class="col-md-4  d-none d-md-block">
                             <img src="assets/img/gallery/madhavv.png" alt="" class="spineeimg">
                         </div>
-                        <div class="col-md-8 Solution" id="oneStopp">
+                        <div class="col-md-8 Solution">
                             <div class="section-title text-center">
-                                <h1 class="main_heading_color "> Your One-Stop Solution for
+                                <h1 class="main_heading_color oneStopp"> Your One-Stop Solution for
                                     Comprehensive Spine
                                     and
                                     Orthopedic Care </h1>
