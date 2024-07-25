@@ -1435,7 +1435,7 @@
                             <span class="mini_text"> spine360clinic@gmail.com</span> <br />
                         </p>
 
-                        <a href="https://maps.app.goo.gl/Gs68ryGTHsDpzRQQ7">
+                        <a href="https://maps.app.goo.gl/Gs68ryGTHsDpzRQQ7" target="_blank">
                             <p class="mt-4 mini_text last_padding_text">
                                 <strong>Address </strong> <br />
                                 1st Floor, Quality Care diagnostics, Chinta Vari Street,

@@ -294,73 +294,80 @@ $result = $conn->query($sql);
   </main>
   <!-- ======= Footer ======= -->
   <footer id="footer">
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-7 d-flex flex-row justify-content-center">
-            <div class="footer-info">
-              <a href="index.php" class="img-fluid">
-                <img src="assets/img/spain/spain_logo.png" class="footer_logo_img img-fluid" alt="" /></a>
-            </div>
-          </div>
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-7 d-flex flex-row justify-content-center">
+                        <div class="footer-info">
+                            <a href="index.php" class="img-fluid">
+                                <img src="assets/img/spain/spain_logo.png" class="footer_logo_img img-fluid"
+                                    alt="" /></a>
+                        </div>
+                    </div>
 
-          <div class="col-md-5 footer-newsletter onl_top">
-            <p class="mt-2">
-              <span class="phone_email">
-                <strong><i class="fa-solid fa-phone colr_purple">
-                    &nbsp;</i></strong></span>
-              <span class="mini_text">
-                +91 81798 40439, &nbsp; +91 83744 49769
-              </span>
-              <br />
-              <span class="phone_email">
-                <strong><i class="fa-solid fa-envelope colr_purple"></i>
-                  &nbsp;</strong></span>
-              <span class="mini_text"> spine360clinic@gmail.com</span> <br />
-            </p>
+                    <div class="col-md-5 footer-newsletter onl_top">
+                        <p class="mt-2">
+                            <span class="phone_email">
+                                <strong><i class="fa-solid fa-phone colr_purple">
+                                        &nbsp;</i></strong></span>
+                            <span class="mini_text">
+                                +91 83744 49769, &nbsp; +91 81798 40439
+                            </span>
+                            <br />
+                            <span class="phone_email">
+                                <strong><i class="fa-solid fa-envelope colr_purple"></i>
+                                    &nbsp;</strong></span>
+                            <span class="mini_text"> spine360clinic@gmail.com</span> <br />
+                        </p>
 
-            <p class="mt-4 mini_text last_padding_text">
-              <strong>Address </strong> <br />
-              1st Floor, Quality Care diagnostics, Chinta Vari Street,
-              Bhanugudi, Kakinada. Pin No: 533003
-            </p>
-            <div class="social-links mt-3">
-              <a href="https://www.facebook.com/spine360clinic" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="https://www.instagram.com/spine360clinic/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <!-- <a href=" " target="_blank" class="pinterest"><i class="bx bxl-pinterest"></i></a> -->
-              <a href="https://www.youtube.com/@spine360clinic" target="_blank" class="twitter"><i class="bx bxl-youtube"></i></a>
+                        <a href="https://maps.app.goo.gl/Gs68ryGTHsDpzRQQ7" target="_blank">
+                            <p class="mt-4 mini_text last_padding_text">
+                                <strong>Address </strong> <br />
+                                1st Floor, Quality Care diagnostics, Chinta Vari Street,
+                                Bhanugudi, Kakinada. Pin No: 533003
+                            </p>
+                        </a>
+                        <div class="social-links mt-3">
+                            <a href="https://www.facebook.com/spine360clinic" target="_blank" class="facebook"><i
+                                    class="bx bxl-facebook"></i></a>
+                            <a href="https://www.instagram.com/spine360clinic/" target="_blank" class="instagram"><i
+                                    class="bx bxl-instagram"></i></a>
+                            <!-- <a href=" " target="_blank" class="pinterest"><i class="bx bxl-pinterest"></i></a> -->
+                            <a href="https://www.youtube.com/@spine360clinic" target="_blank" class="twitter"><i
+                                    class="bx bxl-youtube"></i></a>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
-    </div>
 
-    <div class="footer-area-bottom theme-bg">
-      <div class="container">
-        <div class="row pt-4">
-          <div class="col-xl-8 col-lg-9 col-md-12 col-12">
-            <div class="footer-widget__copyright">
-              <p class="mini_text last_text" style="color: #737373">
-                ©2024 Spain 360 . All Rights Reserved. Designed & Developed
-                by
-                <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none; color: white; font-weight:800">Bhavi Creations</a>
-              </p>
+        <div class="footer-area-bottom theme-bg">
+            <div class="container">
+                <div class="row pt-4">
+                    <div class="col-xl-8 col-lg-9 col-md-12 col-12">
+                        <div class="footer-widget__copyright">
+                            <p class="mini_text last_text" style="color: #737373">
+                                ©2024 Spain 360 . All Rights Reserved. Designed & Developed
+                                by
+                                <a href="https://bhavicreations.com/" target="_blank"
+                                    style="text-decoration: none; color: white; font-weight:800">Bhavi Creations</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-3 col-md-12 col-12">
+                        <div class="footer-widget__copyright-info info-direction">
+                            <p class="mini_text last_text">
+                                <a href="terms.html" style="text-decoration: none; color: white">Terms & conditions
+                                </a>
+                                <a href="privacy.html" style="text-decoration: none; color: white">
+                                    Privacy & policy</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
-          <div class="col-xl-4 col-lg-3 col-md-12 col-12">
-            <div class="footer-widget__copyright-info info-direction">
-              <p class="mini_text last_text">
-                <a href="terms.html" style="text-decoration: none; color: white">Terms & conditions
-                </a>
-                <a href="privacy.html" style="text-decoration: none; color: white">
-                  Privacy & policy</a>
-              </p>
-            </div>
-          </div>
         </div>
-      </div>
-    </div>
-  </footer>
+    </footer>
 
 
   <!-- End Footer -->
