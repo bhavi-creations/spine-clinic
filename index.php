@@ -122,11 +122,11 @@
                 <div class="row">
                     <div class="stopSection" id="topsection">
                         <div class="col-md-4  d-none d-md-block">
-                            <img src="assets/img/gallery/madhavv.png" alt="" class="spineeimg">
+                            <img src="assets/img/gallery/madhavv.png" alt="" class="spineeimg image_top_padding">
                         </div>
                         <div class="col-md-8 Solution">
                             <div class="section-title text-center">
-                                <h1 class="main_heading_color oneStopp"> Your One-Stop Solution for
+                                <h1 class="main_heading_color " id="oneStopp"> Your One-Stop Solution for
                                     Comprehensive Spine
                                     and
                                     Orthopedic Care </h1>
@@ -1440,7 +1440,7 @@
                             <span class="mini_text"> spine360clinic@gmail.com</span> <br />
                         </p>
 
-                        <a href="https://maps.app.goo.gl/Gs68ryGTHsDpzRQQ7">
+                        <a href="https://maps.app.goo.gl/Gs68ryGTHsDpzRQQ7" target="_blank">
                             <p class="mt-4 mini_text last_padding_text">
                                 <strong>Address </strong> <br />
                                 1st Floor, Quality Care diagnostics, Chinta Vari Street,
