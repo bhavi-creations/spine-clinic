@@ -2776,6 +2776,9 @@ li.Microincision {
   }
 }
 
-#image_size{
-  width: 50% !important;
+@media (max-width:992px) {
+  
+  #image_size{
+    width: 50% !important;
+  }
 }
