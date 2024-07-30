@@ -773,25 +773,25 @@
                             data-aos="fade-up" data-aos-delay="100">
                             <div class="row">
                                 <div class="col-md-6 form-group">
-                                    <input type="text" name="name" class="form-control makIn" id="name"
+                                    <input type="text" name="name" class="form-control makIn black_text" id="name"
                                         placeholder="Your Name" required />
                                 </div>
                                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <input type="email" class="form-control makIn" name="email" id="email"
+                                    <input type="email" class="form-control makIn black_text" name="email" id="email"
                                         placeholder="Your Email" required />
                                 </div>
                                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <input type="tel" class="form-control makIn" name="phone" id="phone"
+                                    <input type="tel" class="form-control makIn  black_text" name="phone" id="phone"
                                         placeholder="Your Phone" required />
                                 </div>
                                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <input type="date" name="date" class="form-control makIn" id="date"
+                                    <input type="date" name="date" class="form-control makIn  black_text" id="date"
                                         placeholder="Appointment Date" required />
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group mt-3">
-                                    <select name="department" id="department" class="form-select makIn" required>
+                                    <select name="department" id="department" class="form-select makIn black_text" required>
                                         <option value="">Select Service</option>
 
                                         <option value="MIS">Minimally invasive Spine Surgery (MIS) </option>
@@ -820,7 +820,7 @@
                             </div>
 
                             <div class="form-group mt-3">
-                                <textarea class="form-control makIn" name="message" rows="5"
+                                <textarea class="form-control makIn black_text" name="message" rows="5"
                                     placeholder="Message (Optional)"></textarea>
                             </div>
                             <div class="my-3">
