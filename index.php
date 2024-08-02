@@ -1234,9 +1234,8 @@
                 </div>
             </div>
             <div>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d954.0328909367299!2d82.23641234292052!3d16.968077668056026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3a3829466e5ac0fd%3A0x3203a632efee54cf!2sspine360!3m2!1d16.967962999999997!2d82.2372086!5e0!3m2!1sen!2sin!4v1722489569948!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d802.2432800899712!2d82.23652097601219!3d16.967974193539238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3829466e5ac0fd%3A0x3203a632efee54cf!2sDrMadhav%20Spine360%20Clinic!5e0!3m2!1sen!2sin!4v1722585568701!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+ 
 
 
             </div>
