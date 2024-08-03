@@ -14,7 +14,12 @@
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet" />
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet" />
 
     <!-- Vendor CSS Files -->
     <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" />
@@ -87,7 +92,8 @@
 
         <div class="carousel-inner" id="bb">
             <div class="carousel-item active">
-                <img src="assets/img/sliders/biotechnology-scientist-ppe-suit-researching-dna-laboratory-using-microscope-team-examining-vir.jpg" class="d-block img-fluid" alt="..." />
+                <img src="assets/img/sliders/biotechnology-scientist-ppe-suit-researching-dna-laboratory-using-microscope-team-examining-vir.jpg"
+                    class="d-block img-fluid" alt="..." />
 
             </div>
             <div class="carousel-item">
@@ -144,7 +150,7 @@
                                         issues, catering
                                         to individuals of all ages. </strong></h5>
 
-                                <img src="assets/img/spain/spain_logo.png" alt="" class="spineeimg1  ">
+                                <img src="assets/img/spain/spain_logo.png" alt="" class="spineeimg1  " id="image_size">
 
                             </div>
                         </div>
@@ -177,7 +183,7 @@
                         <p class=" ">
                             Consultant Orthopedic Spine Surgeon, located in Kakinada, promises exclusive and expert
                             services in SPINE SURGERY with utmost precision, empathy, and care. <br><br> Dr. Madhava
-                            Reddy holds both MS Orthopedics and DNB Ortho degrees, with advanced minimally invasive
+                            Reddy holds both MS Orthopedics and DNB Ortho degrees, with advanced MINIMALLY invasive
                             fellowships in spine surgery in Mumbai and South Korea.
                         </p>
                         <p class="about_degree"><i class="fa-solid fa-arrow-right"></i>&nbsp; MBBS from the prestigious
@@ -302,7 +308,8 @@
                                         </div>
                                     </div>
 
-                                    <div class="col-md-5 d-flex justify-content-center align-items-center order-1 order-md-2">
+                                    <div
+                                        class="col-md-5 d-flex justify-content-center align-items-center order-1 order-md-2">
                                         <img src="assets/img/sliders/endroscopic 2.jpg" class="img-fluid" />
                                     </div>
                                 </div>
@@ -459,32 +466,38 @@
                                     <div class="swiper-slide">
                                         <ul class="nav nav-tabs flex-column">
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link active" data-bs-toggle="tab" data-bs-target="#Spondyloslithesis" role="tab">
+                                                <a class="nav-link active" data-bs-toggle="tab"
+                                                    data-bs-target="#Spondyloslithesis" role="tab">
                                                     <h4 class="Lumbar">Lumbar Disc Prolapse</h4>
                                                 </a>
                                             </li>
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Dorsal" role="tab">
+                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Dorsal"
+                                                    role="tab">
                                                     <h4 class="Lumbar">Lumbar canal stenosis</h4>
                                                 </a>
                                             </li>
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Lumbar" role="tab">
+                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Lumbar"
+                                                    role="tab">
                                                     <h4 class="Lumbar">Spinel Trauma/Fractures</h4>
                                                 </a>
                                             </li>
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Cervical" role="tab">
+                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Cervical"
+                                                    role="tab">
                                                     <h4 class="Lumbar">Spinal tumors</h4>
                                                 </a>
                                             </li>
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Myelopaties" role="tab">
+                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Myelopaties"
+                                                    role="tab">
                                                     <h4 class="Lumbar">Spine/Spinal Infections</h4>
                                                 </a>
                                             </li>
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Disc" role="tab">
+                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Disc"
+                                                    role="tab">
                                                     <h4 class="Lumbar">Cervical Myelopathy</h4>
                                                 </a>
                                             </li>
@@ -495,32 +508,38 @@
                                     <div class="swiper-slide">
                                         <ul class="nav nav-tabs flex-column">
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Fractures" role="tab">
+                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Fractures"
+                                                    role="tab">
                                                     <h4>Dorsal Tumors/Infections</h4>
                                                 </a>
                                             </li>
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Trauma" role="tab">
+                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Trauma"
+                                                    role="tab">
                                                     <h4>cervical disc prolapse:</h4>
                                                 </a>
                                             </li>
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Tumors" role="tab">
+                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Tumors"
+                                                    role="tab">
                                                     <h4>Osteoporosis</h4>
                                                 </a>
                                             </li>
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Infections" role="tab">
+                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Infections"
+                                                    role="tab">
                                                     <h4>Deformities: Scoliosis/Kyphosis</h4>
                                                 </a>
                                             </li>
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Kochs" role="tab">
+                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Kochs"
+                                                    role="tab">
                                                     <h4>Orthopaedic Trauma</h4>
                                                 </a>
                                             </li>
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Deformity" role="tab">
+                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Deformity"
+                                                    role="tab">
                                                     <h4>Spinal Cord Injury Treatment</h4>
                                                 </a>
                                             </li>
@@ -532,7 +551,8 @@
                                         <ul class="nav nav-tabs flex-column">
 
                                             <li class="nav-item mt-2">
-                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Injections" role="tab">
+                                                <a class="nav-link" data-bs-toggle="tab" data-bs-target="#Injections"
+                                                    role="tab">
                                                     <h4>Spinal Injections</h4>
                                                 </a>
                                             </li>
@@ -552,7 +572,8 @@
 
 
                                 <div class="tab-pane active show" id="Spondyloslithesis">
-                                    <img src="assets/img/sliders/Lumbar Disc Prolapse.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/sliders/Lumbar Disc Prolapse.png" alt="CT Scanner Image"
+                                        class="img-fluid service_img_radius">
 
 
                                     <h3 class="Prolapse">Lumbar Disc Prolapse</h3>
@@ -567,7 +588,8 @@
 
                                 </div>
                                 <div class="tab-pane" id="Dorsal">
-                                    <img src="assets/img/sliders/Lumbar canal stenosis.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/sliders/Lumbar canal stenosis.png" alt="CT Scanner Image"
+                                        class="img-fluid service_img_radius">
 
                                     <h3 class="Prolapse">Lumbar canal stenosis</h3>
                                     <p class=" ">Lumbar canal stenosis is a condition characterized by narrowing of the
@@ -581,7 +603,8 @@
 
                                 </div>
                                 <div class="tab-pane" id="Lumbar">
-                                    <img src="assets/img/sliders/Spinal Trauma.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/sliders/Spinal Trauma.png" alt="CT Scanner Image"
+                                        class="img-fluid service_img_radius">
 
                                     <h3 class="Prolapse">Spinal Trauma/Fractures</h3>
                                     <p class=" "> Spinal trauma and fractures refer to injuries to the spinal column,
@@ -592,7 +615,8 @@
 
                                 </div>
                                 <div class="tab-pane" id="Cervical">
-                                    <img src="assets/img/sliders/Spinal tumors Spinal tumors .png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/sliders/Spinal tumors Spinal tumors .png"
+                                        alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                                     <h3 class="Prolapse">Spinal tumors</h3>
                                     <p class=" ">Spinal tumors are abnormal growths of tissue within the spinal canal or
@@ -606,7 +630,8 @@
 
                                 </div>
                                 <div class="tab-pane" id="Myelopaties">
-                                    <img src="assets/img/sliders/spinal infection.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/sliders/spinal infection.png" alt="CT Scanner Image"
+                                        class="img-fluid service_img_radius">
 
                                     <h3 class="Prolapse">Spine/Spinal Infections</h3>
                                     <p class=" ">
@@ -618,7 +643,8 @@
 
                                 </div>
                                 <div class="tab-pane" id="Disc">
-                                    <img src="assets/img/sliders/Cervical Myelopathy .png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/sliders/Cervical Myelopathy .png" alt="CT Scanner Image"
+                                        class="img-fluid service_img_radius">
 
                                     <h3 class="Prolapse">Cervical Myelopathy</h3>
                                     <p class=" ">Dr. Madhava Reddy is renowned for his specialized treatments for
@@ -630,7 +656,8 @@
                                 </div>
 
                                 <div class="tab-pane" id="Fractures">
-                                    <img src="assets/img/sliders/Dorsal Tumors .png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/sliders/Dorsal Tumors .png" alt="CT Scanner Image"
+                                        class="img-fluid service_img_radius">
 
                                     <h3 class="Prolapse">Dorsal Tumors/Infections</h3>
                                     <p class=" ">
@@ -642,7 +669,8 @@
                                         spinal function and improving quality of life.</p>
                                 </div>
                                 <div class="tab-pane" id="Trauma">
-                                    <img src="assets/img/sliders/Cervical disc prolapse.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/sliders/Cervical disc prolapse.png" alt="CT Scanner Image"
+                                        class="img-fluid service_img_radius">
 
                                     <h3 class="Prolapse">Cervical disc prolapse</h3>
                                     <p class=" ">
@@ -654,7 +682,8 @@
 
                                 </div>
                                 <div class="tab-pane" id="Tumors">
-                                    <img src="assets/img/sliders/Osteoporosis.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/sliders/Osteoporosis.png" alt="CT Scanner Image"
+                                        class="img-fluid service_img_radius">
 
                                     <h3 class="Prolapse">Osteoporosis</h3>
                                     <p class=" ">
@@ -666,7 +695,8 @@
 
                                 </div>
                                 <div class="tab-pane" id="Infections">
-                                    <img src="assets/img/sliders/Scoliosis 1.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/sliders/Scoliosis 1.png" alt="CT Scanner Image"
+                                        class="img-fluid service_img_radius">
 
                                     <h3 class="Prolapse">Deformities: Scoliosis/Kyphosis</h3>
                                     <p class=" ">Dr. Madhava Reddy is renowned for his expertise in the comprehensive
@@ -676,7 +706,8 @@
 
                                 </div>
                                 <div class="tab-pane" id="Kochs">
-                                    <img src="assets/img/sliders/Orthopaedic Trauma .png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/sliders/Orthopaedic Trauma .png" alt="CT Scanner Image"
+                                        class="img-fluid service_img_radius">
 
                                     <h3 class="Prolapse">Orthopaedic Trauma</h3>
                                     <p class=" "> Dr. Madhava Reddy is renowned for his expertise in the field of
@@ -689,7 +720,8 @@
 
                                 </div>
                                 <div class="tab-pane" id="Deformity">
-                                    <img src="assets/img/sliders/Spinal Cord Injury Treatment.png" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/sliders/Spinal Cord Injury Treatment.png"
+                                        alt="CT Scanner Image" class="img-fluid service_img_radius">
 
                                     <h3 class="Prolapse">Spinal Cord Injury Treatment</h3>
                                     <p class=" ">
@@ -703,7 +735,8 @@
 
 
                                 <div class="tab-pane" id="Injections">
-                                    <img src="assets/img/spain/Spinal Injections.webp" alt="CT Scanner Image" class="img-fluid service_img_radius">
+                                    <img src="assets/img/spain/Spinal Injections.webp" alt="CT Scanner Image"
+                                        class="img-fluid service_img_radius">
 
                                     <h3 class="Prolapse"> Spinal Injections ( Pain Management)</h3>
                                     <p class=" "> For patients seeking non-surgical pain relief, we offer spinal
@@ -739,24 +772,30 @@
                     </div>
 
                     <div class="col-md-8">
-                        <form action="appointmentform.php" method="post" role="form" class="php-email-form" data-aos="fade-up" data-aos-delay="100">
+                        <form action="appointmentform.php" method="post" role="form" class="php-email-form"
+                            data-aos="fade-up" data-aos-delay="100">
                             <div class="row">
                                 <div class="col-md-6 form-group">
-                                    <input type="text" name="name" class="form-control makIn" id="name" placeholder="Your Name" required />
+                                    <input type="text" name="name" class="form-control makIn" id="name"
+                                        placeholder="Your Name" required />
                                 </div>
                                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <input type="email" class="form-control makIn" name="email" id="email" placeholder="Your Email" required />
+                                    <input type="email" class="form-control makIn" name="email" id="email"
+                                        placeholder="Your Email" required />
                                 </div>
                                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <input type="tel" class="form-control makIn" name="phone" id="phone" placeholder="Your Phone" required />
+                                    <input type="tel" class="form-control makIn" name="phone" id="phone"
+                                        placeholder="Your Phone" required />
                                 </div>
                                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                                    <input type="date" name="date" class="form-control makIn" id="date" placeholder="Appointment Date" required />
+                                    <input type="date" name="date" class="form-control makIn" id="date"
+                                        placeholder="Appointment Date" required />
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="form-group mt-3">
-                                    <select name="department" id="department" class="form-select makIn" required>
+                                    <select name="department" id="department" class="form-select makIn black_text"
+                                        required>
                                         <option value="">Select Service</option>
 
                                         <option value="MIS">Minimally invasive Spine Surgery (MIS) </option>
@@ -785,7 +824,8 @@
                             </div>
 
                             <div class="form-group mt-3">
-                                <textarea class="form-control makIn" name="message" rows="5" placeholder="Message (Optional)"></textarea>
+                                <textarea class="form-control makIn" name="message" rows="5"
+                                    placeholder="Message (Optional)"></textarea>
                             </div>
                             <div class="my-3">
                                 <div class="loading">Loading</div>
@@ -813,74 +853,79 @@
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/train/t1.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/train/MICRODISCECTOMY.webp" class="img-fluid galImg">
                                 <p class="trainName">MICRODISCECTOMY (TUBULAR/ENDOSCOPIC)</p>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/train/t2.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/train/Laminectomies.webp" class="img-fluid galImg">
                                 <p class="trainName">Laminectomies</p>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/train/t3.jpeg" class="img-fluid galImg">
-                                <p class="trainName">TUBULAR/ENDOSCOPIC/MICROSCOPIC LUMBAR Fuslons</p>
+                                <img src="assets/img/train/TUBULARENDOSCOPICMICROSCOPIC.webp" class="img-fluid galImg">
+                                <p class="trainName">TUBULAR/ENDOSCOPIC/MICROSCOPIC LUMBAR FUSION</p>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/train/t4.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/train/CERVICAL POSTEROR LAMINECTOMIES.webp"
+                                    class="img-fluid galImg">
                                 <p class="trainName">CERVICAL POSTEROR LAMINECTOMIES</p>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/train/t5.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/train/ACDF (ANTEROR CERVICAL DISCECTOMY AND FUSION).webp"
+                                    class="img-fluid galImg">
                                 <p class="trainName">ACDF (ANTEROR CERVICAL DISCECTOMY AND FUSION)</p>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/train/t6.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/train/KYPHOPLASTY.jpeg" class="img-fluid galImg">
                                 <p class="trainName">KYPHOPLASTY</p>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/train/t7.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/train/VERTEBROPLASTY.jpeg" class="img-fluid galImg">
                                 <p class="trainName">VERTEBROPLASTY</p>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/train/t8.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/train/MIS SPINAL FIXATIONS.webp" class="img-fluid galImg">
                                 <p class="trainName">MIS SPINAL FIXATIONS</p>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/train/t9.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/train/CERVICAL LATERAL MASS FIXATIONS.webp"
+                                    class="img-fluid galImg">
                                 <p class="trainName">CERVICAL LATERAL MASS FIXATIONS</p>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/train/t10.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/train/DORSAL DECOMPRESSIONS AND FIXATIONS.jpeg"
+                                    class="img-fluid galImg">
                                 <p class="trainName">DORSAL DECOMPRESSIONS AND FIXATIONS</p>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/train/t11.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/train/SPINAL BIOPSIES.webp" class="img-fluid galImg">
                                 <p class="trainName"> SPINAL BIOPSIES</p>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/train/t12.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/train/PAIN MANAGEMENT (SPINAL INJECTIONS).webp"
+                                    class="img-fluid galImg">
                                 <p class="trainName">PAIN MANAGEMENT (SPINAL INJECTIONS)</p>
                             </div>
                         </div>
@@ -922,7 +967,7 @@
                         </ul>
                     </div>
                     <div class="col-md-4">
-                        <img src="assets/img/gallery/s2.jpeg" alt="" class="req">
+                        <img src="assets/img/gallery/mSP.jpg" alt="" class="req">
                     </div>
                 </div>
             </div>
@@ -953,22 +998,23 @@
                     $result = $conn->query($sql); ?>
 
                     <?php while ($row = $result->fetch_assoc()) : ?>
-                        <div class="col-12 col-md-4 px-5 py-2">
-                            <div class="card h-100 blogcard">
-                                <video class="custom-video" autoplay muted controls style="width: 100%; height: auto">
-                                    <source src="admin/public/uploads/videos/<?php echo $row['video']; ?>" type="video/mp4" />
-                                    Your browser does not support the video tag.
-                                </video>
-                                <div class="card-body blogbody">
-                                    <h5 class="card-title"><?php echo $row['title']; ?></h5>
-                                </div>
+                    <div class="col-12 col-md-4 px-5 py-2">
+                        <div class="card h-100 blogcard">
+                            <video class="custom-video" autoplay muted controls style="width: 100%; height: auto">
+                                <source src="admin/public/uploads/videos/<?php echo $row['video']; ?>"
+                                    type="video/mp4" />
+                                Your browser does not support the video tag.
+                            </video>
+                            <div class="card-body blogbody">
+                                <h5 class="card-title"><?php echo $row['title']; ?></h5>
+                            </div>
 
-                                <div class="card-footer blogfooter">
-                                    <small class="text-muted">Posted On:
-                                        <?php echo date("F j, Y, g:i a", strtotime($row['time'])); ?></small>
-                                </div>
+                            <div class="card-footer blogfooter">
+                                <small class="text-muted">Posted On:
+                                    <?php echo date("F j, Y, g:i a", strtotime($row['time'])); ?></small>
                             </div>
                         </div>
+                    </div>
                     <?php endwhile; ?>
 
                     <div class="d-flex flex-row justify-content-center mt-4">
@@ -988,7 +1034,8 @@
                     <h1 class="pt-0">Testimonials</h1>
                 </div>
 
-                <div class="testimonials-slider swiper tetniomial_section_bg pt-5 pb-5" data-aos="fade-up" data-aos-delay="100">
+                <div class="testimonials-slider swiper tetniomial_section_bg pt-5 pb-5" data-aos="fade-up"
+                    data-aos-delay="100">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide px-5">
                             <div class="testimonial-item text-center">
@@ -1003,7 +1050,7 @@
                                 <p class="text-center">⭐⭐⭐⭐⭐</p>
 
                                 <h3 class="name_testmonial text-center">Sravanthi</h3>
-                                <p class="poetsen_font">Kakinada</p>
+                                <!-- <p class="poetsen_font">Kakinada</p> -->
                                 <!-- <h4>Ceo &amp; Founder</h4> -->
                             </div>
                         </div>
@@ -1021,7 +1068,7 @@
                                 </p>
                                 <p class="text-center">⭐⭐⭐⭐⭐</p>
                                 <h3 class="name_testmonial">Bhoomika</h3>
-                                <p class="poetsen_font">Kakinada</p>
+                                <!-- <p class="poetsen_font">Kakinada</p> -->
 
                                 <!-- <h4>Designer</h4> -->
                             </div>
@@ -1039,7 +1086,7 @@
                                 </p>
                                 <p class="text-center">⭐⭐⭐⭐⭐</p>
                                 <h3 class="name_testmonial">Sirisha</h3>
-                                <p class="poetsen_font">Kakinada</p>
+                                <!-- <p class="poetsen_font">Kakinada</p> -->
                                 <!-- <h4>Freelancer</h4> -->
                             </div>
                         </div>
@@ -1056,7 +1103,7 @@
                                 </p>
                                 <p class="text-center">⭐⭐⭐⭐⭐</p>
                                 <h3 class="name_testmonial">Ramesh</h3>
-                                <p class="poetsen_font">Kakinada</p>
+                                <!-- <p class="poetsen_font">Kakinada</p> -->
                                 <!-- <h4>Entrepreneur</h4> -->
                             </div>
                         </div>
@@ -1071,7 +1118,7 @@
                                     lumbar spine issues. </p>
                                 <p class="text-center">⭐⭐⭐⭐⭐</p>
                                 <h3 class="name_testmonial">Kumar</h3>
-                                <p class="poetsen_font">Kakinada</p>
+                                <!-- <p class="poetsen_font">Kakinada</p> -->
                                 <!-- <h4>Entrepreneur</h4> -->
                             </div>
                         </div>
@@ -1085,8 +1132,8 @@
                                     approach to treatment gave me the confidence and hope I needed. I am now on the path
                                     to recovery, all thanks to him. </p>
                                 <p class="text-center">⭐⭐⭐⭐⭐</p>
-                                <h3 class="name_testmonial">Ramesh</h3>
-                                <p class="poetsen_font">Kakinada</p>
+                                <h3 class="name_testmonial">Abhi</h3>
+                                <!-- <p class="poetsen_font">Kakinada</p> -->
                                 <!-- <h4>Entrepreneur</h4> -->
                             </div>
                         </div>
@@ -1101,7 +1148,7 @@
                                     constant pain. </p>
                                 <p class="text-center">⭐⭐⭐⭐⭐</p>
                                 <h3 class="name_testmonial">Rahul</h3>
-                                <p class="poetsen_font">Kakinada</p>
+                                <!-- <p class="poetsen_font">Kakinada</p> -->
                                 <!-- <h4>Entrepreneur</h4> -->
                             </div>
                         </div>
@@ -1109,7 +1156,8 @@
                     </div>
 
                     <div class="swiper-button-next right">
-                        <i class="fa-solid fa-chevron-right" style="color: #fff; margin-left: 20px; font-size: 20px"></i>
+                        <i class="fa-solid fa-chevron-right"
+                            style="color: #fff; margin-left: 20px; font-size: 20px"></i>
                     </div>
                     <div class="swiper-button-prev left">
                         <i class="fa-solid fa-chevron-left" style="color: #fff; margin-left: 20px; font-size: 20px"></i>
@@ -1120,30 +1168,30 @@
 
 
             <script>
-                document.addEventListener("DOMContentLoaded", function() {
-                    var swiper = new Swiper(".testimonials-slider", {
-                        loop: true,
-                        navigation: {
-                            nextEl: ".swiper-button-next",
-                            prevEl: ".swiper-button-prev",
+            document.addEventListener("DOMContentLoaded", function() {
+                var swiper = new Swiper(".testimonials-slider", {
+                    loop: true,
+                    navigation: {
+                        nextEl: ".swiper-button-next",
+                        prevEl: ".swiper-button-prev",
+                    },
+                    pagination: {
+                        el: ".swiper-pagination",
+                        clickable: true,
+                    },
+                    autoplay: {
+                        delay: 5000,
+                    },
+                    slidesPerView: 1, // Default slides per view (for screens < 768px)
+                    breakpoints: {
+                        // when window width is >= 768px
+                        768: {
+                            slidesPerView: 3,
+                            spaceBetween: 30,
                         },
-                        pagination: {
-                            el: ".swiper-pagination",
-                            clickable: true,
-                        },
-                        autoplay: {
-                            delay: 5000,
-                        },
-                        slidesPerView: 1, // Default slides per view (for screens < 768px)
-                        breakpoints: {
-                            // when window width is >= 768px
-                            768: {
-                                slidesPerView: 3,
-                                spaceBetween: 30,
-                            },
-                        },
-                    });
+                    },
                 });
+            });
             </script>
         </section>
 
@@ -1171,7 +1219,7 @@
                             1) 360° comprehensive spine care
                         </h4>
                         <p class="solution "> <i class="fa-solid fa-check"></i> A one stop solution for spine treatment
-                            with Minimully invasive and Open Techniques
+                            with MINIMALLY invasive and Open Techniques
                         </p>
                         <!-- <p class="solution ">
               <i class="fa-solid fa-check"></i> A one stop solution for spine treatment
@@ -1216,7 +1264,10 @@
             </div> -->
                     </div>
 
+
                 </div>
+
+            </div>
             </div>
         </section>
 
@@ -1232,7 +1283,10 @@
                 </div>
             </div>
             <div>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.1338659390203!2d82.23452777492473!3d16.967964383849534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a38286d29ab4d8f%3A0x5497a7f1df337003!2sQuality%20Care%20Speciality%20Lab!5e0!3m2!1sen!2sin!4v1720853094890!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.1338659390203!2d82.23452777492473!3d16.967964383849534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a38286d29ab4d8f%3A0x5497a7f1df337003!2sQuality%20Care%20Speciality%20Lab!5e0!3m2!1sen!2sin!4v1720853094890!5m2!1sen!2sin"
+                    width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <div class="container contact_form_section">
                 <div class="row mt-5">
@@ -1265,21 +1319,26 @@
                         <form action="contactform .php" method="post" role="form" class="php-email-form">
                             <div class="row">
                                 <div class="col-md-6 form-group mt-3">
-                                    <input type="text" name="contactname" class="form-control" id="name" placeholder="Your Name" required="" style="font-family: Mulish" />
+                                    <input type="text" name="contactname" class="form-control" id="name"
+                                        placeholder="Your Name" required="" style="font-family: Mulish" />
                                 </div>
                                 <div class="col-md-6 form-group mt-3">
-                                    <input type="email" class="form-control just_font" name="contactemail" id="email" placeholder="Your Email" style="font-family: Mulish" required="" />
+                                    <input type="email" class="form-control just_font" name="contactemail" id="email"
+                                        placeholder="Your Email" style="font-family: Mulish" required="" />
                                 </div>
 
                                 <div class="col-md-6 form-group mt-3">
-                                    <input type="text" class="form-control" name="contactsubject" id="subject" placeholder="Subject" style="font-family: Mulish" />
+                                    <input type="text" class="form-control" name="contactsubject" id="subject"
+                                        placeholder="Subject" style="font-family: Mulish" />
                                 </div>
                                 <div class="col-md-6 form-group mt-3">
-                                    <input type="text" class="form-control" name="contactnumber" id="number" placeholder="Phone" required="" style="font-family: Mulish" />
+                                    <input type="text" class="form-control" name="contactnumber" id="number"
+                                        placeholder="Phone" required="" style="font-family: Mulish" />
                                 </div>
                             </div>
                             <div class="form-group mt-3">
-                                <textarea class="form-control" name="contactmessage" rows="7" placeholder="Message" required=" " style="font-family: Mulish"></textarea>
+                                <textarea class="form-control" name="contactmessage" rows="7" placeholder="Message"
+                                    required=" " style="font-family: Mulish"></textarea>
                             </div>
                             <div class="my-3">
                                 <div class="loading">Loading</div>
@@ -1344,7 +1403,7 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="testimonial-item">
-                                <img src="assets/img/gallery/gellary.jpeg" class="img-fluid galImg">
+                                <img src="assets/img/gallery/singh_bro.png" class="img-fluid galImg">
                             </div>
                         </div>
 
@@ -1373,7 +1432,8 @@
                     <div class="col-md-7 d-flex flex-row justify-content-center">
                         <div class="footer-info">
                             <a href="index.php" class="img-fluid">
-                                <img src="assets/img/spain/spain_logo.png" class="footer_logo_img img-fluid" alt="" /></a>
+                                <img src="assets/img/spain/spain_logo.png" class="footer_logo_img img-fluid"
+                                    alt="" /></a>
                         </div>
                     </div>
 
@@ -1400,10 +1460,13 @@
                             </p>
                         </a>
                         <div class="social-links mt-3">
-                            <a href="https://www.facebook.com/spine360clinic" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
-                            <a href="https://www.instagram.com/spine360clinic/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+                            <a href="https://www.facebook.com/spine360clinic" target="_blank" class="facebook"><i
+                                    class="bx bxl-facebook"></i></a>
+                            <a href="https://www.instagram.com/spine360clinic/" target="_blank" class="instagram"><i
+                                    class="bx bxl-instagram"></i></a>
                             <!-- <a href=" " target="_blank" class="pinterest"><i class="bx bxl-pinterest"></i></a> -->
-                            <a href="https://www.youtube.com/@spine360clinic" target="_blank" class="twitter"><i class="bx bxl-youtube"></i></a>
+                            <a href="https://www.youtube.com/@spine360clinic" target="_blank" class="twitter"><i
+                                    class="bx bxl-youtube"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1418,7 +1481,8 @@
                             <p class="mini_text last_text" style="color: #737373">
                                 ©2024 Spain 360 . All Rights Reserved. Designed & Developed
                                 by
-                                <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none; color: white; font-weight:800">Bhavi Creations</a>
+                                <a href="https://bhavicreations.com/" target="_blank"
+                                    style="text-decoration: none; color: white; font-weight:800">Bhavi Creations</a>
                             </p>
                         </div>
                     </div>
@@ -1447,53 +1511,54 @@
     </button>
 
     <script>
-        // Function to scroll to the top of the page
-        function scrollToTop() {
-            window.scrollTo({
-                top: 0,
-                behavior: "smooth", // Optional, smooth scrolling animation
-            });
-        }
+    // Function to scroll to the top of the page
+    function scrollToTop() {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth", // Optional, smooth scrolling animation
+        });
+    }
 
-        // Show scroll button when scrolling down
-        window.onscroll = function() {
-            scrollFunction();
-        };
+    // Show scroll button when scrolling down
+    window.onscroll = function() {
+        scrollFunction();
+    };
 
-        function scrollFunction() {
-            if (
-                document.body.scrollTop > 20 ||
-                document.documentElement.scrollTop > 20
-            ) {
-                document.getElementById("scrollBtn").style.display = "block";
-            } else {
-                document.getElementById("scrollBtn").style.display = "none";
-            }
+    function scrollFunction() {
+        if (
+            document.body.scrollTop > 20 ||
+            document.documentElement.scrollTop > 20
+        ) {
+            document.getElementById("scrollBtn").style.display = "block";
+        } else {
+            document.getElementById("scrollBtn").style.display = "none";
         }
+    }
     </script>
 
     <style>
-        #scrollBtn {
-            display: none;
-            /* Initially hide the button */
-            position: fixed;
-            /* Fix the position of the button */
-            bottom: 20px;
-            /* Adjust the bottom distance */
-            right: 20px;
-            /* Adjust the right distance */
-            z-index: 999;
-            /* Set a high z-index to ensure the button is on top */
-            padding: 10px 15px;
-            background-color: #01539d;
-            color: white;
-            border: none;
-            border-radius: 50%;
-            cursor: pointer;
-        }
+    #scrollBtn {
+        display: none;
+        /* Initially hide the button */
+        position: fixed;
+        /* Fix the position of the button */
+        bottom: 20px;
+        /* Adjust the bottom distance */
+        right: 20px;
+        /* Adjust the right distance */
+        z-index: 999;
+        /* Set a high z-index to ensure the button is on top */
+        padding: 10px 15px;
+        background-color: #01539d;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        cursor: pointer;
+    }
     </style>
 
-    <a href="https://api.whatsapp.com/send?phone=918179840439" style="color: #fff" class="whatsapp-link" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=918179840439" style="color: #fff" class="whatsapp-link"
+        target="_blank">
         <i class="fab fa-whatsapp"></i>
     </a>
 
@@ -1512,37 +1577,37 @@
     <script src="assets/js/main.js"></script>
 
     <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            var swiper = new Swiper(".mySwiper", {
-                pagination: {
-                    el: ".swiper-pagination",
-                    clickable: true,
-                },
-                slidesPerView: 1,
-                spaceBetween: 30,
-                loop: false,
-                autoplay: false,
-            });
-
-            // Add event listener to nav-links
-            document.querySelectorAll(".nav-link").forEach(function(navLink) {
-                navLink.addEventListener("click", function(event) {
-                    // Check if the link is not the "Blogs" link
-                    if (!navLink.href.includes("blogs.php")) {
-                        event.preventDefault();
-                        const target = navLink.getAttribute("data-bs-target");
-                        document
-                            .querySelectorAll(".tab-pane")
-                            .forEach(function(tabPane) {
-                                tabPane.classList.remove("active", "show");
-                            });
-                        document.querySelector(target).classList.add("active", "show");
-                    }
-                });
-            });
+    document.addEventListener("DOMContentLoaded", function() {
+        var swiper = new Swiper(".mySwiper", {
+            pagination: {
+                el: ".swiper-pagination",
+                clickable: true,
+            },
+            slidesPerView: 1,
+            spaceBetween: 30,
+            loop: false,
+            autoplay: false,
         });
 
-        // jQuery is required for Bootstrap's JavaScript plugins
+        // Add event listener to nav-links
+        document.querySelectorAll(".nav-link").forEach(function(navLink) {
+            navLink.addEventListener("click", function(event) {
+                // Check if the link is not the "Blogs" link
+                if (!navLink.href.includes("blogs.php")) {
+                    event.preventDefault();
+                    const target = navLink.getAttribute("data-bs-target");
+                    document
+                        .querySelectorAll(".tab-pane")
+                        .forEach(function(tabPane) {
+                            tabPane.classList.remove("active", "show");
+                        });
+                    document.querySelector(target).classList.add("active", "show");
+                }
+            });
+        });
+    });
+
+    // jQuery is required for Bootstrap's JavaScript plugins
     </script>
 </body>
 
