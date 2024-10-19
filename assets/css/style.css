@@ -2788,3 +2788,66 @@ li.Microincision {
 .black_text{
   color: black !important;
 }
+
+
+
+
+@media (min-width:1200px) {
+
+
+	.second_divv_end_brand {
+		padding-left: 35%;
+		margin-top: -10px;
+	}
+
+	.brand_image {
+		width: 23%;
+		margin-top: 0%;
+		margin-left: 5px;
+	}
+}
+
+@media (min-width:992px) and (max-width:1200px) {
+
+
+	.second_divv_end_brand {
+		padding-left: 32%;
+		margin-top: -10px;
+	}
+
+	.brand_image {
+		width: 23%;
+		margin-top: 0%;
+		margin-left: 5px;
+	}
+}
+
+@media (max-width:768px) {
+
+
+	.second_divv_end_brand {
+		padding-left: 4%;
+		margin-top: 0px;
+	}
+
+	.brand_image {
+		width: 12%;
+		margin-top: 0%;
+		margin-left: 5px;
+	}
+}
+
+@media (min-width:768px) and (max-width:992px) {
+
+
+	.second_divv_end_brand {
+		padding-left: 23%;
+		margin-top: -10px;
+	}
+
+	.brand_image {
+		width: 23%;
+		margin-top: 0%;
+		margin-left: 5px;
+	}
+}
