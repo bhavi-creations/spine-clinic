@@ -1284,9 +1284,12 @@
             </div>
             <div>
                 <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3816.1338659390203!2d82.23452777492473!3d16.967964383849534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a38286d29ab4d8f%3A0x5497a7f1df337003!2sQuality%20Care%20Speciality%20Lab!5e0!3m2!1sen!2sin!4v1720853094890!5m2!1sen!2sin"
+                    src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d122116.29536600315!2d82.15480682732259!3d16.967946460164285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3a3829466e5ac0fd%3A0x3203a632efee54cf!2s1st%20floor%2C%20Quality%20care%20Speciality%20lab%2C%20Chinta%20Vari%20St%2C%20Bhanugudi%20Junction%2C%20Perrajupeta%2C%20Kakinada%2C%20Andhra%20Pradesh%20533003!3m2!1d16.967962999999997!2d82.2372086!5e0!3m2!1sen!2sin!4v1729761644346!5m2!1sen!2sin"
                     width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
                     referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+                  
             </div>
             <div class="container contact_form_section">
                 <div class="row mt-5">
