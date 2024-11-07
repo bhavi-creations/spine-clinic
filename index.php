@@ -1465,7 +1465,7 @@
                         <div class="social-links mt-3">
                             <a href="https://www.facebook.com/spine360clinic" target="_blank" class="facebook"><i
                                     class="bx bxl-facebook"></i></a>
-                            <a href="https://www.instagram.com/spine360clinic/" target="_blank" class="instagram"><i
+                            <a href="https://www.instagram.com/mmadhavreddy/profilecard/?igsh=MWhreXBncXg3NWhw" target="_blank" class="instagram"><i
                                     class="bx bxl-instagram"></i></a>
                             <!-- <a href=" " target="_blank" class="pinterest"><i class="bx bxl-pinterest"></i></a> -->
                             <a href="https://www.youtube.com/@spine360clinic" target="_blank" class="twitter"><i
