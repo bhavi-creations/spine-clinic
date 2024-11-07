@@ -25,14 +25,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'spine360clinic@gmail.com'; // Your Gmail email address
-        $mail->Password = 'qdfxgmbkbqfdbjdv'; // Your Gmail password
+        $mail->Username = 'drspinemallidi@gmail.com'; // Your Gmail email address
+        $mail->Password = 'meounhsdcgvcmbgo'; // Your Gmail password
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
         // Recipients
-        $mail->setFrom('spine360clinic@gmail.com', 'Spine 360 clinic'); // Your Gmail email and name
-        $mail->addAddress('spine360clinic@gmail.com', 'Spine 360 clinic'); // Recipient's email and name
+        $mail->setFrom('drspinemallidi@gmail.com', 'Spine 360 clinic'); // Your Gmail email and name
+        $mail->addAddress('drspinemallidi@gmail.com', 'Spine 360 clinic'); // Recipient's email and name
 
 // Content
         $mail->isHTML(true);
